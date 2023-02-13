@@ -1,90 +1,11 @@
 <script>
-import { message } from '$lib/stores';
+//import { message } from '$lib/stores';
 
-export let data;
+//export let data;
 </script>
-
-<!-- <div class="bg-gray">
-	{ data.page_server_data.posts }
-</div> -->
-
-<!-- learn: https://svelte.dev/tutorial/text-inputs -->
-<!-- <input class="input-reset bn pa3" bind:value={$message}> <i>{$message}</i> -->
-
-<!-- <div class="mr-auto ml-auto measure">
-	<code class="bg-silver near-white"><span class="bg-gray o-60">{ data.page_server_data.contentSummary.length }:</span>{ !data.page_server_data.contentSummary ? 'Keywords&hellip;' : data.page_server_data.contentSummary }</code>
-	<br>
-</div> -->
 
 <h1 class="">Clowns Without Borders, US</h1>
 <a class="" href="https://github.com/inspiredlabs/cwb.us.org/blob/master/README.md">Scope of work</a>
-
-
-<!-- <aside>
-	<h2>Synthetic Meta</h2>
-	<p>
-		In Hygraph on save, during edit-time:
-		- I'd like to pass the content body query to my prompt and using `+page.server.ts` return the data once to prerender the page.
-</p>
-<p>
-	<code>components method: https://www.youtube.com/watch?v=XKEkP0f5APc</code>
-	<code>webhooks method: https://www.youtube.com/watch?v=NwTymhAd68o</code>
-	<code>webhooks guide: https://graphql.guide/background/webhooks/#webhooks</code>
-	<br>
-		<br>- when the body content is saved I want to see suggestion fields:
-		<br>- page meta description content
-		<br>- page title keywords
-		<br>- (eventually) page JSON-LD
-	</p>
-
-</aside> -->
-
-
-<!-- learn: keyword research:
-• TOOL: `keyword gap tool`, from: https://www.contentbot.ai/blog/news/12-seo-trends-for-2023-and-how-to-apply-them/
-<title>Two Keywords Here | Your Brand Name</title>
-• PICK one or two primary keywords to perfectly represent a new title for the summary of this page
-• USE at least one of your keywords within a summary og this page (meta description content='this')
-• WRITE your keyword three to five times for every 1,000 words in the content
-• URLISE the page URL should synthesise the title properly
-• PRO add your visuals that include keywords in the alt/title. Things optimised like this rank higher.
-https://shortlist.io/how-to-do-seo-keyword-research-in-2023-ultimate-guide -->
-
-<svelte:head>
-
-<title>{ !data.page_server_data.contentKeywords ? 'Keywords&hellip;' : data.page_server_data.contentKeywords } | +BRAND </title>
-
-<meta name="description" content={data.page_server_data.contentSummary.replace(/(?:\r\n|\r|\n)/g, '')}>
-
-<!-- note: inspired by: jamseotools.com/ -->
-<!-- learn: powerful JSON-LD snippet <script type="application/ld+json">
-{
-	"@context":"http://schema.org",
-	"@type": "Article",
-	"name": "Page Title",
-	"url": "https://example.com/page-url",
-	"headline": "Headline of this article",
-	"description": "This article explains how to use SEO tags to enhance a webpage and create better visibility.",
-	"publisher": {
-			"@type": "Organization",
-			"name": "Your Brand Name",
-			"logo": {
-					"@type": "ImageObject",
-					"url": "https://example.com/your-brand-logo.png",
-					"width": "250",
-					"height": "75"
-			}
-	},
-	"image": {
-			"@type": "ImageObject",
-			"url": "https://example.com/the-article-thumbnail.jpg",
-			"width": "1200",
-			"height": "630"
-	}
-}
-</script> -->
-
-</svelte:head>
 
 <style>
 	:global(html, body) { padding:0 }
