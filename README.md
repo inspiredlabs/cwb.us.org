@@ -3,9 +3,10 @@
 # frontmatter: https://jekyllrb.com/docs/front-matter/
 title: Clowns Without Borders US
 
+
 ---
 
-# <!-- animation: Courage, Care, logo --><img width="32" height="32" src="./cwb.svg" alt="Clowns Without Borders" />
+# <!-- animation: Courage, Care, logo --><img width="32" height="32" src="https://www.cwb.us.org/cwb.svg" alt="Clowns Without Borders" />
 
 # Clowns Without Borders US
 
