@@ -1,3 +1,6 @@
+// import adapter from '@sveltejs/adapter-auto';
+import vercel from '@sveltejs/adapter-vercel';
+
 import adapter from '@sveltejs/adapter-auto';
 import { vitePreprocess } from '@sveltejs/kit/vite';
 
@@ -8,7 +11,7 @@ const config = {
 	preprocess: vitePreprocess(),
 
 	kit: {
-		adapter: adapter()
+		adapter: vercel()
 		// Override: methodOverride: { allowed: ['PATCH', 'DELETE'] },
 	},
 
