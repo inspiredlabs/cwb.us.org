@@ -48,7 +48,7 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is ready for your conten
 - Implementation:
     - CMS + UAT (User Acceptance Testing).
     - Use `Websites we love!` as inspiration
-    - v
+    - Mobile First 🥇
 
 
 #### Maintainence Flexibility
@@ -57,34 +57,41 @@ There is no reason to stick to rigid blueprint as I am happy to help you grow, w
 
 #### Implementation
 
-I propose delivering the following:
+In a nutshell, I propose delivering the following:
 
 - a CMS + UAT (User Acceptance Testing). I aim to give you flexibility and have already done some research to get you up and running.
-- building
-- building
+- Use `Websites we love!` as inspiration. You know what you need, so tell me and I can work it into your site.
+- Mobile First 🥇
 
 ##### CMS + UAT (User Acceptance Testing)
 
 Over the past two weeks I have prepared a next-gen CMS with the following criteria: `Easy to manage`, `not dependent on a 3rd party developer` and enables you to `make changes to the menu bar, including menu options, drop down options, and logo`, etc.
 
-This choice <!-- https://hygraph.com/docs/guides/content/creating-content --> is focused on versatility and the company aims to bring the benefits of Wordpress' ease-of-use with the security and speed of.
+This choice <!-- https://hygraph.com/docs/guides/content/creating-content --> is focused on versatility and the company aims to bring the benefits of ease-of-use (similar to `Wordpress`), with the security and speed of next-gen webapps<!-- (if you're technically minded you can think of these as `transitional apps` running on the `JAMstack`) -->.
 
-###### What is UAT (User Acceptance Testing), and why do I need it?
+###### What is UAT (User Acceptance Testing), and why do we need it?
 
-I have already done some research to get you up and running, but you must be sure the new platform suits your your needs.
+I have already done some research to get you up and running, but you must be sure the new platform suits your your needs. That's all `User Acceptance Testing` really means.
 
 On paying your deposit, you and your team can test this new platform – and, as always:
 
-> &hellip;if you eventually think this decision isn't right for you, then I can make different suggestions that meet competing wants and needs.
+> &hellip;if you eventually think this decision isn't right for you, then I can make different suggestions to help meet competing needs-and-wants.
 
-While it's _not_ encouraged after a few months: you can decide to swap components (like your choice of CMS). This is because I am developing my own, modular platform. This gives us more flex than pre-made templates.
-
-
-
+While it's _not_ encouraged after a few months, you can always decide to swap components (like your CMS). This is because I am developing my own modular platform. This gives us flex beyond what pre-made templates can offer!
 
 #### Use `Websites we love!` as inspiration
 
-In your original RFP, you mentioned the following: [Clowns Without Borders UK](https://cwb.org.uk/) Owl & Panther, and Charity Water. I'd like to take these on-board directly:
+In the original `RFP`, you mentioned the following: [Clowns Without Borders UK](https://cwb.org.uk/) Owl & Panther, and Charity Water.
+
+While we can discuss in more detail what struck a chord with you about `Owl & Panther`, I'd like to take these on-board directly:
 
 - Charity Water uses "The Colors of Dirty Water" as a story-telling device. **I have been inspired to make a prototype solution from this idea**. You can see this immediately on paying your deposit.
-- [Clowns Without Borders UK](https://cwb.org.uk/), my approach builds on what already works in this site. I also have an exciting new colour-scheme ready for you.
+- [Clowns Without Borders UK](https://cwb.org.uk/), my approach builds on what already works well, with an different, yet exciting colour-scheme and ideas on how we can use video.
+- Bold, graphic communication. I was a Graphic Designer before becoming involved in development, so hopefully we can make something that looks the part too!
+
+#### Mobile First 🥇
+
+Today, the web is predominantly mobile. If we develop our ideas so they work well on phones and small screens, it is easy to make them work well on larger displays (like Laptop and Desktop computers).
+
+- I aim to deliver a similar experience as in CWB.ORG.UK, with thoughtful use of video that won't compromise the UX (user experience). EG: let's use video where there's more resources like bandwidth and device speed.
+- recommned a choice of devices (and you can help me with ones you know you'll need too).
