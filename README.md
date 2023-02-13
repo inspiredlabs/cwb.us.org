@@ -1,9 +1,6 @@
 ---
-
 # frontmatter: https://jekyllrb.com/docs/front-matter/
 title: Clowns Without Borders US
-
-
 ---
 
 # <!-- animation: Courage, Care, logo --><img width="32" height="32" src="https://www.cwb.us.org/cwb.svg" alt="Clowns Without Borders" />
@@ -90,7 +87,7 @@ While it's _not_ encouraged after a few months, you can always decide to swap co
 
 In the original `RFP`, you mentioned the following: [Clowns Without Borders UK](https://cwb.org.uk/) Owl & Panther, and Charity Water.
 
-What struck a chord regarding `Owl & Panther`? If you give me more  I can take these on-board directly:
+<!-- What struck a chord regarding `Owl & Panther`? If you give me more  I can take these on-board directly: -->
 
 - Charity Water uses "The Colors of Dirty Water" as a story-telling device. **I have been inspired to make a prototype solution from this idea**. You can see this immediately on paying your deposit.
 - [Clowns Without Borders UK](https://cwb.org.uk/), my approach builds on what already works well, with an different, yet exciting colour-scheme and ideas on how we can use video.
@@ -98,8 +95,13 @@ What struck a chord regarding `Owl & Panther`? If you give me more  I can take t
 
 #### Playful + Mobile First 🥇
 
-Today, the web is predominantly mobile. If we develop our ideas so they work well on small screens and phones, it's easy to make them work well on larger displays (like Laptops and Desktops).
+Today, the web is predominantly mobile. If we develop our layout ideas to work well on small screens and phones, it's easy to make them work well on larger displays (like Laptops and Desktops).
 
-- I aim to deliver a similar experience as in CWB.ORG.UK. For your site I can perform a thoughtful implementation of video – one that won't compromise the UX (User Experience). One idea would be using video where there's more resources like bandwidth and device speed.
-- device choice (you can help me with devices you know you'll need), and I'll do manuall hands on testing here as I write the layout code.
-- Playful.
+##### Mobile First
+
+- I aim to deliver a similar experience as in [CWB, UK](https://cwb.org.uk/). For your site I can perform a thoughtful implementation of video – one that won't compromise the `UX` (User Experience). EG: one idea would be using video where there's more resources like bandwidth and device speed.
+- device choice (can you help me with device choice?), and I'll do manuall hands on testing here as I write the layout code.
+
+##### Playful
+
+This section is about: `Playful graphic communication`.
