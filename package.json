@@ -20,6 +20,7 @@
   },
   "type": "module",
   "dependencies": {
+    "@sveltejs/adapter-vercel": "^2.0.2",
     "eslint": "^8.34.0",
     "graphql": "^16.6.0",
     "graphql-request": "^5.1.0",
