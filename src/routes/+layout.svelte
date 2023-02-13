@@ -2,8 +2,10 @@
 import '../app.css';
 </script>
 
-<main class="bg-gold">
-	<slot />
+<main class="w-100">
+	<section class="measure-wide mr-auto ml-auto">
+		<slot />
+	</section>
 </main>
 
 <style>

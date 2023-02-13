@@ -11,16 +11,17 @@ export let data;
 <!-- learn: https://svelte.dev/tutorial/text-inputs -->
 <!-- <input class="input-reset bn pa3" bind:value={$message}> <i>{$message}</i> -->
 
-<div class="mr-auto ml-auto measure">
+<!-- <div class="mr-auto ml-auto measure">
 	<code class="bg-silver near-white"><span class="bg-gray o-60">{ data.page_server_data.contentSummary.length }:</span>{ !data.page_server_data.contentSummary ? 'Keywords&hellip;' : data.page_server_data.contentSummary }</code>
 	<br>
-	<!-- <code class="bg-cobalt">{ !data.page_server_data.contentKeywords ? 'Keywords&hellip;' : data.page_server_data.contentKeywords }</code>
-	<hr>
-	<hr> -->
-</div>
+</div> -->
 
-<h1>Synthetic Meta</h1>
-<aside>
+<h1 class="">Clowns Without Borders, US</h1>
+<a class="" href="https://github.com/inspiredlabs/cwb.us.org/blob/master/README.md">Scope of work</a>
+
+
+<!-- <aside>
+	<h2>Synthetic Meta</h2>
 	<p>
 		In Hygraph on save, during edit-time:
 		- I'd like to pass the content body query to my prompt and using `+page.server.ts` return the data once to prerender the page.
@@ -36,7 +37,7 @@ export let data;
 		<br>- (eventually) page JSON-LD
 	</p>
 
-</aside>
+</aside> -->
 
 
 <!-- learn: keyword research:
