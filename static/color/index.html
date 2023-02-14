@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name=apple-mobile-web-app-capable content=yes />
+<meta name=apple-mobile-web-app-title content="CWB Dev">
+<title>CWB Dev</title>
+<link rel="stylesheet" href="https://www.cwb.us.org/color/js/flickity.css">
+<link rel="stylesheet" href="https://www.cwb.us.org/color/js/flickity-fade.css">
+
+<style>
+
+* { box-sizing: border-box; }
+
+body {
+	font-family: sans-serif;
+	overflow: hidden;
+	padding:0;
+	margin:0;
+}
+
+.carousel {
+	/* background: whitesmoke; */
+}
+
+.carousel-cell {
+	width: 100%;
+	width: 100vh;
+	height: 100%;
+	height: 100vh;
+	margin-right: 0;
+	/* center images in cells with flexbox */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.carousel.is-fullscreen .carousel-cell {
+	height: 100%;
+}
+
+.carousel-cell-image {
+	display: block;
+	max-height: 100%;
+}
+
+button, .flickity-button {
+	color: rgba(128, 128, 128, 0.1);
+	background:hsla(0, 0%, 0%, 0);
+}
+
+button, .flickity-button:hover {
+	/* color: #383838; */
+	color: rgba(128, 128, 128, 0.6);
+	background:hsla(0, 0%, 0%, 0);
+	transition:color .3s ease-in-out;
+}
+
+.flickity-page-dots {
+	position: absolute;
+	z-index: 999;
+	bottom:50px;
+}
+
+.flickity-page-dots .dot {
+	background: rgba(128, 128, 128, 0.3);
+	/* background: #f1f1f1;
+	opacity: 0.4; */
+	transition:all .3s ease-in-out;
+}
+
+.flickity-page-dots .dot.is-selected {
+	background: rgba(128, 128, 128, 0.6);
+	/* opacity: 1; */
+
+}
+
+.flickity-page-dots .dot.is-selected:hover, .flickity-page-dots .dot:hover {
+	background: #383838;
+	opacity: 1;
+}
+
+</style>
+</head>
+<body>
+
+<!-- Flickity HTML init -->
+<main class="carousel" data-flickity='{ "fade": true, "imagesLoaded": true, "wrapAround": true }'>
+	<div class="carousel-cell">
+		<img class="carousel-cell-image" src="https://www.cwb.us.org/color/original.webp" />
+	</div>
+	<div class="carousel-cell">
+		<img class="carousel-cell-image" src="https://www.cwb.us.org/color/orange-blue-navy.webp" />
+	</div>
+	<div class="carousel-cell">
+		<img class="carousel-cell-image" src="https://www.cwb.us.org/color/orange-gray-green.webp" />
+	</div>
+	<div class="carousel-cell">
+		<img class="carousel-cell-image" src="https://www.cwb.us.org/color/orange-navy-mustard.webp" />
+	</div>
+	<div class="carousel-cell">
+		<img class="carousel-cell-image" src="https://www.cwb.us.org/color/orange-pastle-blue.webp" />
+	</div>
+	<div class="carousel-cell">
+		<img class="carousel-cell-image" src="https://www.cwb.us.org/color/red-cyan-dark-gray.webp" />
+	</div>
+	<div class="carousel-cell">
+		<img class="carousel-cell-image" src="https://www.cwb.us.org/color/tomato-navy-gray.webp" />
+	</div>
+</main>
+
+<script src="https://www.cwb.us.org/color/js/flickity.pkgd.js"></script>
+<script src="https://www.cwb.us.org/color/js/flickity-fade.js"></script>
+
+</body>
+</html>

@@ -1,6 +1,9 @@
 ---
+
 # frontmatter: https://jekyllrb.com/docs/front-matter/
 title: Clowns Without Borders US
+
+
 ---
 
 # <!-- animation: Courage, Care, logo --><img width="32" height="32" src="https://www.cwb.us.org/cwb.svg" alt="Clowns Without Borders" />
@@ -19,15 +22,15 @@ Firstly, I have studied your `Budget Review` and want to help you get the best v
 
 ### A reliable & accountable supplier
 
-In a perfect world, your **bandwidth** should be focused on making business decisions about your charity – rather than thinking about technology. Here, I aim to derisk tech for you and you can always ask for clarification whenever you need it.
+In a perfect world, your focus should be making business decisions about your charity – rather than thinking about tech. Here, I aim to derisk technology for you and offer clarification whenever you need it.
 
 #### How do we know you be able to deliver?
 
-Technically, my work is informed by prior design and development for other businesses, including [CWB, UK](https://cwb.org.uk/), National Geographic and other communication-concious  organisations. In general, they prioritse a responsible tech-partner over cost.
+My work is informed by prior design and development for other businesses, including [CWB, UK](https://cwb.org.uk/), National Geographic and other communication-concious  organisations. In general, they prioritse a responsible tech-partner over cost.
 
 Just have a look at one of my recent [reviews](https://www.trustpilot.com/users/637cf2765bc60600112957fc).
 
-There is no rigid blueprint, **this RFP is just a guide**: when do we know we've covered everything? Don't worry. When you work with me it's ok to change your mind or develop your idea – it's part of the process!
+There is no rigid blueprint, **this RFP is just a guide**: _when do we know we've covered everything?_ Don't worry. When you work with me it's ok to change your mind and develop your idea – it's part of the process!
 
 > I can make things fit your needs because I have designed my own platform: _flexibility_ is where I shine.
 
@@ -51,57 +54,65 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
 
 #### Maintainence Flexibility
 
-There is no reason to stick to a rigid blueprint as I am happy to help you grow, whatever your demands might be. These incremental tweaks are included in your maintainence budget.
+There is no reason to stick to a rigid blueprint as I am happy to help you grow, whatever your demands might be. These incremental tweaks are included in your maintainence budget. And, for peace of mind:
+
+> Maintainence will only happen _after_ migration.
 
 #### Implementation
 
 In a nutshell, I propose delivering the following:
 
-- a CMS + UAT (User Acceptance Testing). I have already done some research to get you up and running that gives you the flexibility you are looking for.
-- Use `Websites we love!` as inspiration: You've told me what works for you, so, let's see if I can work it into your site!
-- Mobile First 🥇
+- a CMS + UAT (User Acceptance Testing). I have already done some research to get you up and running that gives you something `Easy to manage` yet, with the flexibility you are looking for.
+- Use `Websites we love!` as inspiration: You've told me what works for you and I have clear ideas how to make this work on your site!
+- Playful + Mobile First 🥇
 
 ##### CMS + UAT (User Acceptance Testing)
 
-Over the past two weeks I have prepared a next-gen CMS with the following criteria: `Easy to manage`, `not dependent on a 3rd party developer` and enables you to `make changes to the menu bar, including menu options, drop down options, and logo`, etc.
+Over the past two weeks, I have prepared a CMS that is: `Easy to manage`, `not dependent on a 3rd party developer` and versatile enough for you to `make changes to the menu bar, including menu options, drop down options, and logo`.
 
-This choice <!-- https://hygraph.com/docs/guides/content/creating-content --> is focused on versatility and the CMS aims to bring the benefits of ease-of-use (similar to `Wordpress`), with the security and speed of next-gen webapps<!-- (if you're technically minded you can think of these as `transitional apps` running on the `JAMstack`) -->.
+This choice is of CMS aims to bring ease-of-use (like `Wordpress`), with the security and speed of next-gen webapps<!-- (if you're technically minded you can think of these as `transitional apps` running on the `JAMstack`) -->.
 
-###### I can see `Easy to manage` is important to you
+###### I see `Easy to manage` is important to you
 
-This is actually a very hard problem, in my experience _easy_ always competes with _versatile_.
+In my experience _easy_ often competes with _versatile_. This can be a hard problem to solve for everyone.
 
-However, there are new and emerging ways to make life easier for content producers and editors. For example SEO suggestions using AI. Automation often sounds complicated, but in reality, I already have a working demo for you.
+However, there are new and emerging ways to make life easier for content producers and editors. For example, AI can produce `Automated SEO Suggestions`. This may sound complicated, but in reality, I have used AI since 2016 and have a working demo using CWB content for you can see.
+
 
 ###### What is UAT (User Acceptance Testing), and why do we need it?
 
-I have done some research to get you up and running, but you must be sure that the new platform suits your your needs. That's what  `User Acceptance Testing` means.
+To be sure any platform suits your your needs I will help with training you how to use your new CMS as part of `User Acceptance Testing`. We'll go through it together until you're happy<!--the solution is viable-->.
 
-On paying your deposit, you and your team can test this new platform – and, as always:
+I have done some research to get you up and running and on paying your deposit, you can test this platform – and, as always:
 
 > &hellip;if you eventually think this decision isn't right for you, then I can make different suggestions to help meet competing needs-and-wants.
 
-While it's _not_ encouraged after a few months, you can always decide to swap components (like your CMS). This is because I am developing my own modular platform. This gives us flexabilty way beyond pre-made templates!
+While it's _not_ encouraged after a few months, you can always decide to swap components (like a CMS). This is because I am developing my own flexible platform.
 
 #### Use `Websites we love!` as inspiration
 
-In the original `RFP`, you mentioned the following: [Clowns Without Borders UK](https://cwb.org.uk/) Owl & Panther, and Charity Water.
+In the original `RFP`, you mentioned the following: [Clowns Without Borders UK](https://cwb.org.uk/), and Charity Water. Following these sites, I propose the following:
 
-<!-- What struck a chord regarding `Owl & Panther`? If you give me more  I can take these on-board directly: -->
-
-- Charity Water uses "The Colors of Dirty Water" as a story-telling device. **I have been inspired to make a prototype solution from this idea**. You can see this immediately on paying your deposit.
+- Charity Water uses "The Colors of Dirty Water" as a story-telling device. **I have been inspired to make a similar solution that I call: _True Colours_**. You can see this whenever you're ready.
 - [Clowns Without Borders UK](https://cwb.org.uk/), my approach builds on what already works well, with an different, yet exciting colour-scheme and ideas on how we can use video.
-- Bold, graphic communication. I was a Graphic Designer before becoming involved in development, so hopefully we can make something that looks the part too!
+- What struck a chord for me, when I looked at `Owl & Panther` was the clarity. They don't publish much. What they have however, as a result of restraint is direct and compelling.
+
 
 #### Playful + Mobile First 🥇
 
-Today, the web is predominantly mobile. If we develop our layout ideas to work well on small screens and phones, it's easy to make them work well on larger displays (like Laptops and Desktops).
+##### Playful
+
+Bold, graphic communication is my passion. So, I have prepared some [Color Suggestions](https://www.cwb.us.org/color) that might spark your imagination to make something that looks the part – as well as works properly too!
+
+Everyone knows Dropbox, Stripe and Mailchimp have serious, yet playful design&hellip; Apple are typography leaders. Google appear harmless with colourful letters, but let's take our inspiration much further:
+
+- [Who gives a crap?](https://uk.whogivesacrap.org/) They know how to use illustration.
+- [Cotopaxi](https://www.cotopaxi.com/collections/all-packs)'s slogan: _Gear for Good_ matches thier lively color-scheme.
+- [NYTimes](https://www.wappalyzer.com/technologies/ui-frameworks/sveltekit/) blends excellent typography and layouts with playful graphics very well. And, they are built using the same tools I use, nice.
 
 ##### Mobile First
 
-- I aim to deliver a similar experience as in [CWB, UK](https://cwb.org.uk/). For your site I can perform a thoughtful implementation of video – one that won't compromise the `UX` (User Experience). EG: one idea would be using video where there's more resources like bandwidth and device speed.
-- device choice (can you help me with device choice?), and I'll do manuall hands on testing here as I write the layout code.
+Today, the web is predominantly mobile. If we develop our ideas so they work well on small screens and phones, it's easy to make them work well on larger displays (like Laptops and Desktops).
 
-##### Playful
-
-This section is about: `Playful graphic communication`.
+- I aim to deliver a similar experience as in CWB.ORG.UK with a thoughtful implementation of video – without compromising the UX (User Experience). EG: using video where we know there's likely to be more resources such as bandwidth. <!-- [humaan](https://www.humaan.com/) -->
+- device choice: I will be using a mix of mobile and desktop devices from `Apple`, `Android`, `Windows touchscreen` and `Ubuntu`. Also, I welcome you steering our device choice – if you know you will be performing a demo or fundraising on a particular `make`/`model`, please let me know. I will give that special attention if you like.
