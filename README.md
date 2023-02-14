@@ -96,7 +96,7 @@ In the original `RFP`, you mentioned the following: [Clowns Without Borders UK](
 - Charity Water uses "The Colors of Dirty Water" as a story-telling device. **I have been inspired to make a demo called: _True Color Blog_**. You can see this whenever you're ready.
 - [Clowns Without Borders UK](https://cwb.org.uk/), my approach builds on what already works well, with an different, yet exciting colour-scheme and ideas on how we can use video.
 - What struck a chord for me, when I looked at `Owl & Panther` was the clarity. They don't publish much. What they have however, as a result of restraint is direct and compelling.
-- `Plan C` have a very strong voice. While this is not x it is out of the scope of this RFP.
+- `Plan C` have a very strong voice. This means we should concentrate on the `Target Audience` expectations through writing.
 
 #### Mobile First 🥇
 
