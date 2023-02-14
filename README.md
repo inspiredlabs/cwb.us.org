@@ -93,7 +93,7 @@ While it's _not_ encouraged after a few months, you can always decide to swap co
 
 In the original `RFP`, you mentioned the following: [Clowns Without Borders UK](https://cwb.org.uk/), and Charity Water. Following these sites, I propose the following:
 
-- Charity Water uses "The Colors of Dirty Water" as a story-telling device. **I have been inspired to make a similar solution that I call: _True Colours_**. You can see this whenever you're ready.
+- Charity Water uses "The Colors of Dirty Water" as a story-telling device. **I have been inspired to make a demo called: _True Color Blog_**. You can see this whenever you're ready.
 - [Clowns Without Borders UK](https://cwb.org.uk/), my approach builds on what already works well, with an different, yet exciting colour-scheme and ideas on how we can use video.
 - What struck a chord for me, when I looked at `Owl & Panther` was the clarity. They don't publish much. What they have however, as a result of restraint is direct and compelling.
 
@@ -114,5 +114,11 @@ Everyone knows Dropbox, Stripe and Mailchimp have serious, yet playful design&he
 
 Today, the web is predominantly mobile. If we develop our ideas so they work well on small screens and phones, it's easy to make them work well on larger displays (like Laptops and Desktops).
 
-- I aim to deliver a similar experience as in CWB.ORG.UK with a thoughtful implementation of video – without compromising the UX (User Experience). EG: using video where we know there's likely to be more resources such as bandwidth. <!-- [humaan](https://www.humaan.com/) -->
-- device choice: I will be using a mix of mobile and desktop devices from `Apple`, `Android`, `Windows touchscreen` and `Ubuntu`. Also, I welcome you steering our device choice – if you know you will be performing a demo or fundraising on a particular `make`/`model`, please let me know. I will give that special attention if you like.
+- I aim to deliver a similar experience as CWB, UK with a thoughtful implementation of video – without compromising the UX (User Experience). EG: using video where we know there's likely to be more resources such as bandwidth. <!-- [humaan](https://www.humaan.com/) -->
+- device choice: I will be using a mix of mobile and desktop devices from `Apple`, `Android`, `Windows touchscreen` and `Ubuntu`. Also, I welcome you steering our device choice – if you know you will be performing a demo or fundraising on a particular `make & model`, please let me know. I will give that special attention if you like.
+
+<!--
+The Double Diamond can help us like a map, to visualise where we are in the whole process
+
+![The Double Diamond can help us like a map, to visualise where we are in the whole process](https://www.cwb.us.org/color/double-diamond.webp "The Double Diamond can help us like a map, to visualise where we are in the whole process")
+-->
