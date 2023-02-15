@@ -10,7 +10,7 @@
 		<a class="" href="https://github.com/inspiredlabs/cwb.us.org/blob/master/README.md">Scope of work</a>
 	</li>
 	<!-- usage: https://hygraph.com/docs/guides/content/creating-content -->
-	<!---->
+	<!--
 		<li>
 			<a class="" href="https://account.proton.me/login/clownswithoutborders@proton.me">Email</a> authenticated
 			<a class="" href="https://app.hygraph.com/a546076c7f4c4bdaadebaab3525215aa/master/settings/project">next-gen CMS</a>
@@ -27,7 +27,7 @@
 		<li>
 			Video reveal: how <a class="" href="https://cwb.us.org/uncover/">storytelling meets UX</a>
 		</li>
-
+-->
 </ul>
 
 <style>
