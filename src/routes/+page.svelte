@@ -11,7 +11,7 @@
 	</li>
 	<!-- usage: https://hygraph.com/docs/guides/content/creating-content -->
 	<!--
-		<li>
+		<li>UAT task:
 			<a class="" href="https://account.proton.me/login/clownswithoutborders@proton.me">Email</a> authenticated
 			<a class="" href="https://app.hygraph.com/a546076c7f4c4bdaadebaab3525215aa/master/settings/project">next-gen CMS</a>
 		</li>
