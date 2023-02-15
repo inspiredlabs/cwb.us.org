@@ -82,6 +82,11 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
 - September:
   - Annual maintenance payment (full).
 
+> The above might look vauge, but we can use this **Double Diamond** like a map to visualise where we are in the whole process&hellip;
+
+![The Double Diamond helps us, like a map to visualise where we are in the whole process](https://www.cwb.us.org/color/double-diamond.webp "The Double Diamond helps us, like a map to visualise where we are in the whole process")
+
+
 #### Maintainence Flexibility
 
 There is no reason to stick to a rigid blueprint as I am happy to help you grow, whatever your demands might be. These incremental tweaks are included in your maintainence budget. And, for peace of mind:
