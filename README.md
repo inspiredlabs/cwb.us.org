@@ -138,7 +138,7 @@ While it's _not_ encouraged after a few months, you can always decide to swap co
 
 The layout should meet the goals of our `Target Audience`. This means:
 
-- Provide a resource conscious `UX` (and measure this).
+- Provide a resource conscious `UX` (measure this, and aim for 100%).
 - Use `Graphic Communication` to prioritise the needs of our `Target Audience`.
 - Deliver a strong `Storytelling` experience to meet business goals.
 
@@ -172,21 +172,22 @@ Improving your `Visual Identity`&hellip;
 
 ###### Impact language <!-- and `Storytelling` -->
 
-Your `Brand` should be represented in an effective way beyond your website (across social media, print etc).
+Your `Brand` should have impact across the web, social media, print in a cohesive way.
 
-Let's quickly study the problem:
+> From the current messaging, how do we know what is working well and how do we know what needs updating?
 
-```
-Slogans in use across social media:
+Current messaging (Feb. 2023):
 
-- Resilience through laughter
+- You can make a difference to displaced children.
 - We Bring Laughter Where It's Needed Most
-- You can make a difference to displaced children. Everyone deserves to laugh.
-- Sharing resilience through laughter to bring relief to children living in crisis areas.
-- Laughing Matters - where all other resources are scarce, laughter can and should be abundant.
-- Our Mission: Clowns Without Borders (CWB – USA) offers joy and laughter to relieve the suffering of all persons, especially children, who live in areas of crisis including refugee camps, conflict zones and territories in situations of emergency.
-
-```
+- [Buffer](https://clownswithoutborders.start.page/): _Resilience through laughter_
+- [Kindful](https://clownswithoutborders.kindful.com/): _d_
+- [Twitter](https://twitter.com/CWBUSA): _CWB offers laughter to bring relief to children living in crisis areas. We also seek to raise our society’s awareness of affected populations._
+- [Current website donate page](https://clownswithoutborders.org/donate-clowns-without-borders/): _You can make a difference to displaced children. Everyone deserves to laugh._
+- [Facebook](https://www.facebook.com/clownswithoutborders.usa/): _Sharing resilience through laughter to bring relief to children living in crisis areas._
+- [Instagram](https://www.instagram.com/clownswithoutborders/): _Laughing Matters - where all other resources are scarce, laughter can and should be abundant._
+- [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): _Our Mission: Clowns Without Borders (CWB – USA) offers joy and laughter to relieve the suffering of all persons, especially children, who live in areas of crisis including refugee camps, conflict zones and territories in situations of emergency._
+- [Youtube](https://www.youtube.com/@clownswithoutbordersusa): No about page.
 
 The solution: Use `Impact Language` and **Repeat, Repeat, Repeat**.
 
@@ -208,14 +209,4 @@ Your `CTA` should remove barriers so people can:
 
 As I deep-dived into your online footprint, I noticed you have a lot to manage.
 
-It can benefit people's perception to tighten up your `CTA`, by thinking about unifying efforts:
-
-
-
-- [Instagram](https://www.instagram.com/clownswithoutborders/)
-- [Facebook](https://www.facebook.com/clownswithoutborders.usa/)
-- [Youtube](https://www.youtube.com/channel/UC9cBbZ9-YT7GpxqW6He8Qhg)
-- [Twitter](https://twitter.com/CWBUSA)
-- [Buffer](https://clownswithoutborders.start.page/)
-- [Kindful](https://clownswithoutborders.kindful.com/)
-- [Your website's donate page](https://clownswithoutborders.org/donate-clowns-without-borders/)
+It can benefit people's perception to tighten up your `CTA`. This can be done by unifying the current messaging.
