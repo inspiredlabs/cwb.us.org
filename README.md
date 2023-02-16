@@ -148,10 +148,8 @@ The layout should meet the goals of our `Target Audience`. This means:
 - you can steer our device choice too: When you know the `make & model` your fundraising strategy focuses on, I can apply a specific design treatment there.
 - Providing a resource conscious `UX` means I aim to score 100% in a `Lighthouse` test. See Scott's work on CWB,&nbsp;UK for what that looks like in practice:
 
-<video controls="controls" poster="">
-  <source src="https://cwb.us.org/color/nobody-does-it-better.mov" type='video/mov' title="Scott scores 100%" />
-  <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+![Scott scores 100% on Google's Lighthouse test](https://www.cwb.us.org/color/nobody-does-it-better.gif "Scott scores 100% on Google's Lighthouse test")
+
 
 ##### Graphic Communication
 
@@ -211,6 +209,8 @@ Your `CTA` should remove barriers so people can:
 As I deep-dived into your online footprint, I noticed you have a lot to manage.
 
 It can benefit people's perception to tighten up your `CTA`, by thinking about unifying efforts:
+
+
 
 - [Instagram](https://www.instagram.com/clownswithoutborders/)
 - [Facebook](https://www.facebook.com/clownswithoutborders.usa/)
