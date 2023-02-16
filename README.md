@@ -176,12 +176,12 @@ Your `Brand` should have impact across the web, social media, print in a cohesi
 
 > From the current messaging, how do we know what is working well and how do we know what needs updating?
 
-Current messaging (Feb. 2023):
+Current `CTA` messaging (Feb. 2023):
 
 - You can make a difference to displaced children.
 - We Bring Laughter Where It's Needed Most
 - [Buffer](https://clownswithoutborders.start.page/): _Resilience through laughter_
-- [Kindful](https://clownswithoutborders.kindful.com/): _d_
+- [Kindful](https://clownswithoutborders.kindful.com/): _Give Laughter_
 - [Twitter](https://twitter.com/CWBUSA): _CWB offers laughter to bring relief to children living in crisis areas. We also seek to raise our society’s awareness of affected populations._
 - [Current website donate page](https://clownswithoutborders.org/donate-clowns-without-borders/): _You can make a difference to displaced children. Everyone deserves to laugh._
 - [Facebook](https://www.facebook.com/clownswithoutborders.usa/): _Sharing resilience through laughter to bring relief to children living in crisis areas._
