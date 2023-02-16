@@ -212,8 +212,6 @@ As I deep-dived into your online footprint, I noticed you have a lot to manage.
 
 It can benefit people's perception to tighten up your `CTA`, by thinking about unifying efforts:
 
-```
-
 - [Instagram](https://www.instagram.com/clownswithoutborders/)
 - [Facebook](https://www.facebook.com/clownswithoutborders.usa/)
 - [Youtube](https://www.youtube.com/channel/UC9cBbZ9-YT7GpxqW6He8Qhg)
@@ -221,5 +219,3 @@ It can benefit people's perception to tighten up your `CTA`, by thinking about u
 - [Buffer](https://clownswithoutborders.start.page/)
 - [Kindful](https://clownswithoutborders.kindful.com/)
 - [Your website's donate page](https://clownswithoutborders.org/donate-clowns-without-borders/)
-
-```
