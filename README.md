@@ -214,14 +214,12 @@ It can benefit people's perception to tighten up your `CTA`, by thinking about u
 
 ```
 
-- [https://www.instagram.com/clownswithoutborders/](Instagram)
-- [https://www.facebook.com/clownswithoutborders.usa/](Facebook)
-- [https://twitter.com/CWBUSA](Twitter)
-- [https://clownswithoutborders.start.page/](Buffer)
-- [https://clownswithoutborders.kindful.com/](Kindful)
-- [https://www.youtube.com/channel/UC9cBbZ9-YT7GpxqW6He8Qhg](Youtube)
-- [https://clownswithoutborders.org/donate-clowns-without-borders/](Your website's donate page)
+- [Instagram](https://www.instagram.com/clownswithoutborders/)
+- [Facebook](https://www.facebook.com/clownswithoutborders.usa/)
+- [Youtube](https://www.youtube.com/channel/UC9cBbZ9-YT7GpxqW6He8Qhg)
+- [Twitter](https://twitter.com/CWBUSA)
+- [Buffer](https://clownswithoutborders.start.page/)
+- [Kindful](https://clownswithoutborders.kindful.com/)
+- [Your website's donate page](https://clownswithoutborders.org/donate-clowns-without-borders/)
 
 ```
-
-It's easy to get lost your list of links!
