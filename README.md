@@ -10,7 +10,7 @@ title: Clowns Without Borders US
 
 # SCOPE OF WORK
 
-## Naomi's risk assesment requirements
+## Naomi's risk assessment requirements
 
 Firstly, I have studied your `Budget Review` and want to help you get the best value for money, while being flexible and trustworthy:
 
