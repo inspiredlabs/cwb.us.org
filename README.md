@@ -148,7 +148,10 @@ The layout should meet the goals of our `Target Audience`. This means:
 - you can steer our device choice too: When you know the `make & model` your fundraising strategy focuses on, I can apply a specific design treatment there.
 - Providing a resource conscious `UX` means I aim to score 100% in a `Lighthouse` test. See Scott's work on CWB,&nbsp;UK for what that looks like in practice:
 
-![Scott scores 100%](https://cwb.us.org/color/nobody-does-it-better.mov)
+<video controls="controls" poster="">
+  <source src="https://cwb.us.org/color/nobody-does-it-better.mov" type='video/mov' title="Scott scores 100%" />
+  <p>Your user agent does not support the HTML5 Video element.</p>
+</video>
 
 ##### Graphic Communication
 
@@ -156,16 +159,18 @@ Effective `Graphic Communication` leads to an emotional connection.
 
 A bold visual identity paired with good `Storytelling` and thoughful `Call To Action` helps present your `Brand` in a cohesive way.
 
-<!--
+
 ###### Visual Identity
 
-Your `Visual Identity`&hellip;
+Improving your `Visual Identity`&hellip;
 
-- responsive-logo.gif
-- social-media.webp
-- brave.jpg
+![Be bold: use contrast](https://www.cwb.us.org/color/social-media.webp "Be bold: use contrast")
 
--->
+![Resopnsive Logo](https://www.cwb.us.org/color/brave.jpg "Resopnsive Logo")
+
+![Resopnsive Logo](https://www.cwb.us.org/color/responsive-logo.gif "Resopnsive Logo")
+
+
 
 ###### Impact language <!-- and `Storytelling` -->
 
@@ -209,13 +214,13 @@ It can benefit people's perception to tighten up your `CTA`, by thinking about u
 
 ```
 
-- Instagram: https://www.instagram.com/clownswithoutborders/
-- FB: https://www.facebook.com/clownswithoutborders.usa/
-- Twitter: https://twitter.com/CWBUSA
-- Buffer: https://clownswithoutborders.start.page/
-- Kindful: https://clownswithoutborders.kindful.com/
-- Youtube: https://www.youtube.com/channel/UC9cBbZ9-YT7GpxqW6He8Qhg
-- Your website's donate page: https://clownswithoutborders.org/donate-clowns-without-borders/
+- [https://www.instagram.com/clownswithoutborders/](Instagram)
+- [https://www.facebook.com/clownswithoutborders.usa/](Facebook)
+- [https://twitter.com/CWBUSA](Twitter)
+- [https://clownswithoutborders.start.page/](Buffer)
+- [https://clownswithoutborders.kindful.com/](Kindful)
+- [https://www.youtube.com/channel/UC9cBbZ9-YT7GpxqW6He8Qhg](Youtube)
+- [https://clownswithoutborders.org/donate-clowns-without-borders/](Your website's donate page)
 
 ```
 
