@@ -13,7 +13,7 @@ title: Clowns Without Borders US
 
 # SCOPE OF WORK
 
-# Naomi's risk assessment requirements
+## Naomi's risk assessment requirements
 
 Firstly, I have studied your `Budget Review` and want to help you get the best value for money, while being flexible and trustworthy:
 
@@ -21,11 +21,11 @@ Firstly, I have studied your `Budget Review` and want to help you get the best v
 - I can guarantee **meeting your deadline** and you'll be able to shape the end-result too.
 - I have an **innovative proposal** and – can help _as-and-when things change_ because that's the inherent advantage of a maintainence budget.
 
-# A reliable & accountable supplier
+## A reliable & accountable supplier
 
 In a perfect world, your focus should be making business decisions about your charity – rather than thinking about tech. Here, I aim to derisk technology for you and offer clarification whenever you need it.
 
-# How do we know you'll be able to deliver?
+## How do we know you'll be able to deliver?
 
 My work is informed by prior design and development for other businesses, including [Clowns Without Borders, UK (**CWB, UK**)](https://cwb.org.uk/), National Geographic and other communication-conscious  organisations. In general, they prioritse a responsible tech-partner over cost.
 
@@ -35,7 +35,7 @@ There is no rigid blueprint, **this RFP is just a guide**: _when do we know we'v
 
 > I can make things fit your needs because I have designed my own platform: _flexibility_ is where I shine.
 
-# Meeting your deadline
+## Meeting your deadline
 
 🚀 **[CWB.US.ORG](https://www.cwb.us.org/) is ready when you are!**
 
@@ -47,17 +47,18 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
 
 # An innovative proposal
 
-1. Maintainence Flexibility
+## Maintainence Flexibility
 
-2. Information Architecture
+## Information Architecture
 
-3. Implementation:
+## Implementation:
+
 - CMS + `UAT (User Acceptance Testing)`.
 - Use `Websites we love!` as inspiration.
 - Mobile First 🥇
 - Strategically design a Win-Win Scenario for our `Target Audience`.
 
-4. Deliverables:
+## Deliverables:
 
 - Day One:
   - **First payment (50% of total budget)**
