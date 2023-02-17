@@ -36,7 +36,7 @@ There is no rigid blueprint, **this RFP is just a guide**: _when do we know we'v
 
 🚀 **[CWB.US.ORG](https://www.cwb.us.org/) is ready when you are!**
 
-I aim to use **[CWB.US.ORG](https://www.cwb.us.org/)** as a staging site for development, then perform a migration whenever you and your team are totally happy.
+I aim to use **[CWB.US.ORG](https://www.cwb.us.org/)** as a staging site for development, then perform the migration when you are totally happy.
 
 Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to login! Here is an overview of _some_ of the technologies installed already:
 
@@ -63,7 +63,7 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
   - See `True Colors` blog idea
 - Next step:
   - Choose content to start designing around (eg. Ukraine post).
-  - Add detail to `Target Audience` needs
+  - Add detail to `Target Audience` and their needs
   - Define business strategy
 - First Week:
   - Reflect on `UAT`, training and inform our requirements
@@ -160,15 +160,14 @@ A bold visual identity paired with good `Storytelling` and thoughful `Call To Ac
 
 ###### Visual Identity
 
-Improving your `Visual Identity`&hellip;
+An iconic symbol as a logo will improve your `Visual Identity`. Here is a demo inplace of your current logo:
 
 ![Be bold: use contrast](https://www.cwb.us.org/color/social-media.webp "Be bold: use contrast")
 
+<!--
 ![Resopnsive Logo](https://www.cwb.us.org/color/brave.jpg "Resopnsive Logo")
-
 ![Resopnsive Logo](https://www.cwb.us.org/color/responsive-logo.gif "Resopnsive Logo")
-
-
+-->
 
 ###### Impact language <!-- and `Storytelling` -->
 
@@ -210,3 +209,19 @@ Your `CTA` should remove barriers so people can:
 As I deep-dived into your online footprint, I noticed you have a lot to manage.
 
 It can benefit people's perception to tighten up your `CTA`. This can be done by unifying the current messaging.
+
+###### Storytelling template
+
+People make decisions on an emotional level. So, we can connect people to CWB through stories.
+
+- Introduce a protagonist of specific interest to the `Target Audience`: introduce this person (or group).
+- Describe the problem: have the reader empathise as you sum up the difficulties of their struggle.
+- Introduce the solution: explain how CWB became involved and the close ties this situation has with CWB's mission.
+- The human impact: write a relatable outcome for the protagonist with quotes.
+- `CTA`: be specific about how the `Target Audience` should get involved.
+- Conclusion: encourage sharing via social media with `impact language` to help summarise how to spread the article.
+- Finally: Thank the reader for their support.
+
+Here's a [method](https://donorbox.org/nonprofit-blog/nonprofit-storytelling-guide) to help people empathise with other's problems:
+
+![donorbox.org nonprofit storytelling guide](https://www.cwb.us.org/color/panel-3.webp "donorbox.org nonprofit storytelling guide")
