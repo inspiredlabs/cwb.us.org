@@ -1,5 +1,6 @@
 ---
 
+
 # frontmatter: https://jekyllrb.com/docs/front-matter/
 title: Clowns Without Borders US
 
@@ -18,11 +19,11 @@ Firstly, I have studied your `Budget Review` and want to help you get the best v
 - I can guarantee **meeting your deadline** and you'll be able to shape the end-result too.
 - I have an **innovative proposal** and – can help _as-and-when things change_ because that's the inherent advantage of a maintainence budget.
 
-### A reliable & accountable supplier
+## A reliable & accountable supplier
 
 In a perfect world, your focus should be making business decisions about your charity – rather than thinking about tech. Here, I aim to derisk technology for you and offer clarification whenever you need it.
 
-### How do we know you'll be able to deliver?
+## How do we know you'll be able to deliver?
 
 My work is informed by prior design and development for other businesses, including [Clowns Without Borders, UK (**CWB, UK**)](https://cwb.org.uk/), National Geographic and other communication-conscious  organisations. In general, they prioritse a responsible tech-partner over cost.
 
@@ -32,7 +33,7 @@ There is no rigid blueprint, **this RFP is just a guide**: _when do we know we'v
 
 > I can make things fit your needs because I have designed my own platform: _flexibility_ is where I shine.
 
-### Meeting your deadline
+## Meeting your deadline
 
 🚀 **[CWB.US.ORG](https://www.cwb.us.org/) is ready when you are!**
 
@@ -42,17 +43,19 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
 
 ![Behind the scenes CWB.US.ORG is ready for your content editor to login!](https://www.cwb.us.org/images/cwb.us.org.webp "Behind the scenes CWB.US.ORG is already for you to login!")
 
-## An innovative proposal
+# An innovative proposal
 
 1. Maintainence Flexibility
 
-2. Implementation:
+2. Information Architecture
+
+3. Implementation:
 - CMS + `UAT (User Acceptance Testing)`.
 - Use `Websites we love!` as inspiration.
 - Mobile First 🥇
 - Strategically design a Win-Win Scenario for our `Target Audience`.
 
-3. Deliverables:
+4. Deliverables:
 
 - Day One:
   - First payment (half)
@@ -86,13 +89,42 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
 ![The Double Diamond helps us, like a map to visualise where we are in the whole process](https://www.cwb.us.org/color/double-diamond.webp "The Double Diamond helps us, like a map to visualise where we are in the whole process")
 
 
-### Maintainence Flexibility
+## Maintainence Flexibility
 
 There is no reason to stick to a rigid blueprint as I am happy to help you grow, whatever your demands might be. These incremental tweaks are included in your maintainence budget. And, for peace of mind:
 
 > Maintainence will only happen _after_ migration.
 
-### Implementation
+## Information Architecture
+
+What is `Information Architecture`?
+
+> `Information Architecture`, or `IA`: is a way of adding clarity, findability and meaning to disparate, related ideas and is vital for cohesive engagement.
+
+Here, I quickly represent a "day-one" structure to help reimagine the `IA`:
+
+- homepage:
+	- impact of our work
+  - main `CTA`
+  - Why Laughter Matters
+  - video (See: `Storytelling` meets `UX` demo)
+  - Our Mission
+- Partner With Us
+- About Us
+	- Our Story
+	- How we work
+	- Annual Reports
+- Contact Us
+- Blog:
+	- `Storytelling` template in use
+	- 12 posts (migrated)
+	- appropriate video embed (See: `Storytelling` meets `UX` demo).
+
+
+
+
+
+## Implementation
 
 In a nutshell, I propose delivering the following:
 
@@ -101,19 +133,19 @@ In a nutshell, I propose delivering the following:
 - Mobile First 🥇 – this section will cover graphic communication, layout and devices.
 - Strategically design a Win-Win scenario for our `Target Audience`. Here I'll discuss the design and development stage of the project and what questions we'll need to answer to get the best result.
 
-#### CMS + `UAT (User Acceptance Testing)`
+### CMS + `UAT (User Acceptance Testing)`
 
 Over the past two weeks, I have prepared a CMS that is: `Easy to manage`, `not dependent on a 3rd party developer` and versatile enough for you to `make changes to the menu bar, including menu options, drop down options, and logo`.
 
 This choice is of CMS aims to bring ease-of-use (like `Wordpress`), with the security and speed of next-gen webapps<!-- (if you're technically minded you can think of these as `transitional apps` running on the `JAMstack`) -->.
 
-##### I see `Easy to manage` is important to you
+#### I see `Easy to manage` is important to you
 
 In my experience _easy_ often competes with _versatile_. This can be a hard problem to solve for everyone.
 
 However, there are new and emerging ways to make life easier for content producers and editors. For example, AI can produce `Automated SEO Suggestions`. This may sound complicated, but in reality, I have been using AI since 2016 and have a proof-of-concept demo using content from [CWB,&nbsp;UK](https://cwb.org.uk/).
 
-##### What is `UAT (User Acceptance Testing)`, and why do we need it?
+#### What is `UAT (User Acceptance Testing)`, and why do we need it?
 
 To be certain the new platform suits your needs – you should try it, before you live with it! `UAT` is the process of trying something out, feedback and training (as required).
 
@@ -125,7 +157,7 @@ I have done some research to get you up and running and on paying your deposit, 
 
 While it's _not_ encouraged after a few months, you can always decide to swap components (like a CMS). This is because I am developing my own flexible platform.
 
-#### Use `Websites we love!` as inspiration
+### Use `Websites we love!` as inspiration
 
 | Website: | Noteworthy because: | How we could develop this&hellip; |
 | - | -- | --- |
@@ -134,7 +166,7 @@ While it's _not_ encouraged after a few months, you can always decide to swap co
 | Owl & Panther | Immediate clarity of purpose. Compelling, yet minimal publishing | Strike a chord while exercising restraint. <br>Less is more. |
 | [Plan C](https://www.weareplanc.org/modules/) | A strong voice. A sophisticated discourse on degrowth. Imprefect, bold graphics. | Leverage the power of `Storytelling`. <br>Match content and graphics. |
 
-#### Mobile First 🥇
+### Mobile First 🥇
 
 The layout should meet the goals of our `Target Audience`. This means:
 
@@ -142,7 +174,7 @@ The layout should meet the goals of our `Target Audience`. This means:
 - Use `Graphic Communication` to prioritise the needs of our `Target Audience`.
 - Deliver a strong `Storytelling` experience to meet business goals.
 
-##### Provide a resource conscious `UX`
+#### Provide a resource conscious `UX`
 
 - `Devices` refer to a mix of mobile and desktop from `Apple`, `Android`, `Windows touchscreen` and `Ubuntu`.
 - you can steer our device choice too: When you know the `make & model` your fundraising strategy focuses on, I can apply a specific design treatment there.
@@ -151,16 +183,16 @@ The layout should meet the goals of our `Target Audience`. This means:
 ![Scott scores 100% on Google's Lighthouse test](https://www.cwb.us.org/color/nobody-does-it-better.gif "Scott scores 100% on Google's Lighthouse test")
 
 
-##### Graphic Communication
+#### Graphic Communication
 
 Effective `Graphic Communication` leads to an emotional connection.
 
 A bold visual identity paired with good `Storytelling` and thoughful `Call To Action` helps present your `Brand` in a cohesive way.
 
 
-###### Visual Identity
+##### Visual Identity
 
-An iconic symbol as a logo will improve your `Visual Identity`. Here is a demo inplace of your current logo:
+An iconic symbol as a logo will improve your `Visual Identity`. Here is a demo of how that might work with your current content. Note how much contrast there is in the video thumbnails:
 
 ![Be bold: use contrast](https://www.cwb.us.org/color/social-media.webp "Be bold: use contrast")
 
@@ -169,7 +201,7 @@ An iconic symbol as a logo will improve your `Visual Identity`. Here is a demo i
 ![Resopnsive Logo](https://www.cwb.us.org/color/responsive-logo.gif "Resopnsive Logo")
 -->
 
-###### Impact language <!-- and `Storytelling` -->
+##### Impact language <!-- and `Storytelling` -->
 
 Your `Brand` should have impact across the web, social media, print in a cohesive way.
 
@@ -195,7 +227,7 @@ Help people's cognitive load by repeating your `Impact Language`.
 
 > When we strike with our most important ideas – people are more likely to take action.
 
-###### Define common `CTA`
+##### Define common `CTA`
 
 A good `Call To Action`, or `CTA` will define what you want people to do as they become more aligned with your values and share your goals.
 
@@ -210,7 +242,7 @@ As I deep-dived into your online footprint, I noticed you have a lot to manage.
 
 It can benefit people's perception to tighten up your `CTA`. This can be done by unifying the current messaging.
 
-###### Storytelling template
+##### Storytelling template
 
 People make decisions on an emotional level. So, we can connect people to CWB through stories.
 
