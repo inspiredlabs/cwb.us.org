@@ -60,7 +60,7 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
 4. Deliverables:
 
 - Day One:
-  - <span style="color:red">First payment (50% of total budget)</span>
+  - **First payment (50% of total budget)**
   - See `Storytelling` meets `UX` video component demo
   - `UAT` next-gen CMS
   - See `Automated SEO Suggestions` demo
@@ -80,11 +80,11 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
   - Deploy design iterations, accept feedback and refine strategy
   - Clarify the `Migration Definition`
 - Sign-off design:
-  - <span style="color:red">Second payment (50% of total budget)</span>
+  - **Second payment (50% of total budget)**
   - I aim to sign-off in advance of September
   - Migrate  according to the `Migration Definition`
 - September:
-  - <span style="color:red">Annual maintenance payment (100% of maintenance budget)</span>
+  - **Annual maintenance payment (100% of maintenance budget)**
 
 > The above might look vauge, but we can use this **Double Diamond** like a map to visualise where we are in the whole process&hellip;
 
