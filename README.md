@@ -47,11 +47,11 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
 
 # An innovative proposal
 
-## Maintainence Flexibility
+1. [Maintainence Flexibility](#maintainence-flexibility)
 
-## Information Architecture
+2. [Information Architecture](#information-architecture)
 
-## Implementation:
+3. [Implementation](#implementation):
 
 - CMS + `UAT (User Acceptance Testing)`.
 - Use `Websites we love!` as inspiration.
