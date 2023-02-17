@@ -129,8 +129,8 @@ cursor: pointer;
 .z-0 {
 z-index: 0;
 }
-.z-1 {
-z-index: 1;
+.z-999 {
+z-index: 999;
 }
 
 /* Useful for display width */
@@ -250,6 +250,19 @@ box-shadow: 0 0 0 0 #808080;
 }
 @media all and (orientation:landscape) {
 }
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .f1-m {
+    font-size: 3rem;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .f-headline-l {
+    font-size: 6rem;
+  }
+}
+
 .sticky { position: sticky }
 video { object-fit: cover }
 .measure-custom-l { max-width: 40rem }
@@ -258,16 +271,18 @@ video { object-fit: cover }
 </head>
 <body class="system">
 <header class="vh-custom">
-<section class="absolute shadow-5 vh-100 w-100 z-1 left-0 top-0 bg-near-white dt" style="height: 93vh">
-<div class="dtc v-mid tc ph3 ph3-l ">
-  <h1>
-  Are you here to help<br>
-  uncover smiles?
-  </h1>
-</div>
-</section>
+  <section class="absolute shadow-5 vh-100 w-100 z-999 left-0 top-0 bg-near-white dt" style="height: 93vh">
+    <div class="dtc v-mid tc ph3 ph3-l ">
+      <h1 class="f4 ma0">Clowns Without Borders</h1>
+      <h2 class="ma0 f1-m f-headline-l">uncover smiles</h2>
+    </div>
+  </section>
 <figure class="bg-black top-0 z-0 ma0 pa0 sticky">
-  <video loop controls playsinline muted preload="auto" class="vh-100 w-100 o-70 pointer">
+  <video
+    class="vh-100 w-100 o-70 pointer"
+    loop controls playsinline muted preload="auto"
+    poster="https://www.cwb.us.org/uncover/320x180.webp"
+  >
     <!-- <source src="https://clownswithoutborders.org/wp-content/uploads/2015/08/CWB-Hero-BG.mp4" type="video/mp4" /> -->
     <source src="https://cwb.us.org/uncover/CWB-Hero-BG.mp4" type="video/mp4">
   </video>
@@ -278,15 +293,17 @@ video { object-fit: cover }
     <div class="fr w-100 w-100-ns w-100-m measure-custom-l f4 cf pv3">
       <!-- debug -->
       <article>
-        <h2>There are other ways you can help:</h2>
-        <h3>Would you like to make a regular monthly donation?<h3>
-        <h3>Sign-up to our newsletter<h3>
-        <h3>Share this idea via social media&hellip;<h3>
-        <h3>Find valuable partners we can collaborate with<h3>
+        <h3>Help uncover more smiles</h3>
+        <h4>Are you able to make a regular monthly donation?<h4>
+        <h4>Sign-up to our newsletter<h3>
+        <h4>Share this idea via social media&hellip;<h4>
+        <h4>Find valuable partners we can collaborate with<h4>
         <p>
           &hellip;
         </p>
-        <h3>Make a one-time donation now<h3>
+        <h4>Make a one-time donation<h4>
+        <code>CREDIT CARD</code><br>
+        <code>USER INTERFACE</code>
       </article>
       <div class="vh-100 o-0"></div>
   </div>
