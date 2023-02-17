@@ -211,15 +211,14 @@ Your `Brand` should have impact across the web, social media, print in a cohesi
 
 Current `CTA` messaging (Feb. 2023):
 
-- You can make a difference to displaced children.
-- We Bring Laughter Where It's Needed Most
+- [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): We Bring Laughter Where It's Needed Most
+- [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): _Our Mission: Clowns Without Borders (CWB – USA) offers joy and laughter to relieve the suffering of all persons, especially children, who live in areas of crisis including refugee camps, conflict zones and territories in situations of emergency. Vision&hellip;_
 - [Buffer](https://clownswithoutborders.start.page/): _Resilience through laughter_
 - [Kindful](https://clownswithoutborders.kindful.com/): _Give Laughter_
 - [Twitter](https://twitter.com/CWBUSA): _CWB offers laughter to bring relief to children living in crisis areas. We also seek to raise our society’s awareness of affected populations._
 - [Current website donate page](https://clownswithoutborders.org/donate-clowns-without-borders/): _You can make a difference to displaced children. Everyone deserves to laugh._
 - [Facebook](https://www.facebook.com/clownswithoutborders.usa/): _Sharing resilience through laughter to bring relief to children living in crisis areas._
 - [Instagram](https://www.instagram.com/clownswithoutborders/): _Laughing Matters - where all other resources are scarce, laughter can and should be abundant._
-- [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): _Our Mission: Clowns Without Borders (CWB – USA) offers joy and laughter to relieve the suffering of all persons, especially children, who live in areas of crisis including refugee camps, conflict zones and territories in situations of emergency._
 - [Youtube](https://www.youtube.com/@clownswithoutbordersusa): No about page.
 
 The solution: Use `Impact Language` and **Repeat, Repeat, Repeat**.
