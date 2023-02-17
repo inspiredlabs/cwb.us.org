@@ -129,8 +129,9 @@ cursor: pointer;
 .z-0 {
 z-index: 0;
 }
-.z-999 {
-z-index: 999;
+
+.z-max {
+z-index: 2147483647;
 }
 
 /* Useful for display width */
@@ -266,18 +267,18 @@ box-shadow: 0 0 0 0 #808080;
 .sticky { position: sticky }
 video { object-fit: cover }
 .measure-custom-l { max-width: 40rem }
-.vh-custom { height:200vh }
+/* .vh-custom { height:200vh } */
 </style>
 </head>
 <body class="system">
 <header class="vh-custom">
-  <section class="absolute shadow-5 vh-100 w-100 z-999 left-0 top-0 bg-near-white dt" style="height: 93vh">
+  <section class="absolute shadow-5 vh-100 w-100 z-max left-0 top-0 bg-near-white dt" >
     <div class="dtc v-mid tc ph3 ph3-l ">
       <h1 class="f4 ma0">Clowns Without Borders</h1>
       <h2 class="ma0 f1-m f-headline-l">uncover smiles</h2>
     </div>
   </section>
-<figure class="bg-black top-0 z-0 ma0 pa0 sticky">
+<figure class="bg-black top-0 ma0 pa0 sticky">
   <video
     class="vh-100 w-100 o-70 pointer"
     loop controls playsinline muted preload="auto"
