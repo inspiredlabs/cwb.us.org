@@ -1,6 +1,6 @@
 ---
 
-# Added `Target Audience` notes
+
 # frontmatter: https://jekyllrb.com/docs/front-matter/
 title: Clowns Without Borders US
 
@@ -57,6 +57,12 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
 - Use `Websites we love!` as inspiration.
 - Mobile First 🥇
 - Strategically design a Win-Win Scenario for our `Target Audience`.
+
+4. Payment of [Deliverables](#deliverables):
+
+- Day One: **First payment (50% of total budget)**
+- Sign-off design: **Second payment (50% of total budget)**
+- September: **Annual maintenance payment (100% of maintenance budget)**
 
 ## Deliverables:
 
