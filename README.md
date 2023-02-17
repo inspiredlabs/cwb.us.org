@@ -7,6 +7,8 @@ title: Clowns Without Borders US
 
 ---
 
+
+
 # <!-- animation: Courage, Care, logo --><img width="32" height="32" src="https://www.cwb.us.org/cwb.svg" alt="Clowns Without Borders" /> Clowns Without Borders US
 
 # SCOPE OF WORK
@@ -58,7 +60,7 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
 4. Deliverables:
 
 - Day One:
-  - First payment (half)
+  - <span style="color:red">First payment (50% of total budget)</span>
   - See `Storytelling` meets `UX` video component demo
   - `UAT` next-gen CMS
   - See `Automated SEO Suggestions` demo
@@ -78,11 +80,11 @@ Behind the scenes [CWB.US.ORG](https://www.cwb.us.org/) is already for you to lo
   - Deploy design iterations, accept feedback and refine strategy
   - Clarify the `Migration Definition`
 - Sign-off design:
-  - Second payment (half).
+  - <span style="color:red">Second payment (50% of total budget)</span>
   - I aim to sign-off in advance of September
   - Migrate  according to the `Migration Definition`
 - September:
-  - Annual maintenance payment (full).
+  - <span style="color:red">Annual maintenance payment (100% of maintenance budget)</span>
 
 > The above might look vauge, but we can use this **Double Diamond** like a map to visualise where we are in the whole process&hellip;
 
