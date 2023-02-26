@@ -237,7 +237,9 @@ In modern life there is a signal-to-noise problem and it's up to us to filter wh
 > When we strike with our most important ideas – people are more likely to take action.
 
 <!--
-2023 `Impact Language` idea:
+2023 `Impact Language` slogans:
+
+> Laughter to bring relief to children living in crisis zones
 
 > Resilience through laughter, where it's needed most
 
@@ -330,7 +332,7 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
 
 - Who are the _Movers & Shakers_ that matter?
   - The goal is to target just 2 or 3 people in the _whole world_ that could make life better!
-  - they might be people we have worked with before, such as `Grant Funders`, `Partner/Collaborators` or new `Sponsors` that have specific investment goals.
+  - they might be people you know, such as `Grant Funders`, `Partner/Collaborators` or perhaps new `Sponsors` that have specific investment goals.
 - eg: [Jumpman](https://wish.org/michael-jordan-gift) celebrates his 60th in style!
   - By making a **$10m** donation to the Make-A-Wish Foundation it's clear that the charity are having impact and trusted to deliver on their promises – great!
   - **More money in = more granted wishes**, their operation effectively _scales_ in proportion to their capacity. Their `Charitable Objectives` get fulfilled in a winner-takes-all feedback loop! As they earn funds, it looks like they can grant more wishes.
@@ -346,8 +348,26 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
 
 > Key question: what do we do **already** to serve our existing Movers & Shakers?
 
-##### `Target Audience` Requirements
+##### `Target Audience` segmentation
 
-Concentrating on who we are looking for, it becomes clear what our webapp should do for different `Target Audience`s.
+<!-- ##### `Target Audience` Requirements -->
 
-> Key question: What need or business-case did you fulfill for the biggest and most regular `Grant Funders`?
+Concentrating on who we are looking for, it should become clear what our webapp should do for our different `Target Audience`.
+
+Let's break this down, starting with `Grant Funders`.
+
+> Key question: What need or business-case did CWB fulfill for the biggest `Grant Funder`?
+
+> Key question: What need or business-case did CWB fulfill for the most regular `Grant Funders`?
+
+> Key question: where do you normally find `Grant Funders` & interact with them?
+
+> Key question: who are the best `Grant Funders` & why?
+
+> Key question: which `Grant Funders` have repeat funds & why?
+
+> Key question: when `Grant Funders` review our application is there a **special relationship** that helps move the needle in our favour? &hellip;if so, how do we amplify this, improve their experience and do more for them?
+
+`Partner/Collaborators`
+
+> Key question: what are their needs?
