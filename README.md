@@ -266,7 +266,7 @@ As I deep-dived into your online footprint, I noticed you have a lot to manage. 
 
 People make decisions on an emotional level.
 
-Your stories have already started to connect people to CWB. Now I have read Maggie's work, I expect as we _join-forces_ we'll come up with some cracking content!
+Your stories have already started to connect people to CWB. With 30 years of making an impact, it's clear that CWB have a lot of credability to offer. Now I have read Maggie's work, I expect as we _join-forces_ we'll come up with some cracking content!
 
 By meshing writing and design, we can use:
 
@@ -295,7 +295,7 @@ Here's a [method](https://donorbox.org/nonprofit-blog/nonprofit-storytelling-gui
 
 - Credability, check! ✅
 - A strong Writer, check! ✅
-- An organised Designer, check! ✅
+- An organised Designer, Hello! 🙋🏻‍♂️
 - Strategic business goals – wait a second&hellip; do we need a business plan? Well, not quite! ❌
 
 A Win-Win scenario can be established with the [Double Diamond Process](https://github.com/inspiredlabs/cwb.us.org/blob/master/README.md#the-double-diamond-process) guiding our implementation. There are four phases: **Discover, Define, Develop & Deliver** – by following this pattern we can acheive a loose,  effective business strategy to bind everything together.
@@ -350,11 +350,20 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
 
 ##### `Target Audience` segmentation
 
-<!-- ##### `Target Audience` Requirements -->
+<!-- ##### `UX` requirements for our `Target Audience` segments
 
-Concentrating on who we are looking for, it should become clear what our webapp should do for our different `Target Audience`.
+What our webapp should do for:
+- Grant Funders
+  - review our grant application and use website to see an examples of: past work, x, y and z.
+  - x
+- x
+- y
 
-Let's break this down, starting with `Grant Funders`.
+-->
+
+Concentrating on who we are looking for, it should become clear what our webapp should do for our different `Target Audience` segments.
+
+Let's break this down for `Grant Funders`.
 
 > Key question: What need or business-case did CWB fulfill for the biggest `Grant Funder`?
 
@@ -364,9 +373,9 @@ Let's break this down, starting with `Grant Funders`.
 
 > Key question: who are the best `Grant Funders` & why?
 
-> Key question: which `Grant Funders` have repeat funds & why?
+<!-- > Key question: which `Grant Funders` have repeat funds & why? -->
 
-> Key question: when `Grant Funders` review our application is there a **special relationship** that helps move the needle in our favour? &hellip;if so, how do we amplify this, improve their experience and do more for them?
+> Key question: when `Grant Funders` review our application is there a **special relationship** that helps move the needle in our favour? &hellip;if so, how do we amplify this and improve their experience?
 
 `Partner/Collaborators`
 
