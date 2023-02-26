@@ -113,7 +113,9 @@ What is `Information Architecture`?
 
 > `Information Architecture`, or `IA`: is a way of adding clarity, findability and meaning to disparate, related ideas and is vital for cohesive engagement.
 
+<!--
 `IA` defines the ideas, categories and relationships between information and helps create clear, consistent navigation.
+-->
 
 Here, I quickly represent a "day-one" structure to help reimagine the `IA`:
 
