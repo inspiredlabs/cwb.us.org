@@ -113,6 +113,8 @@ What is `Information Architecture`?
 
 > `Information Architecture`, or `IA`: is a way of adding clarity, findability and meaning to disparate, related ideas and is vital for cohesive engagement.
 
+`IA` defines the ideas, categories and relationships between information and helps create clear, consistent navigation.
+
 Here, I quickly represent a "day-one" structure to help reimagine the `IA`:
 
 - homepage:
@@ -171,7 +173,7 @@ While it's _not_ encouraged after a few months, you can always decide to swap co
 
 | Website: | Noteworthy because: | How we could develop this&hellip; |
 | - | -- | --- |
-| Charity&nbsp;Water | `Storytelling`: "The Colors of Dirty Water" | A  blog called **_True Colors_**. You can see this demo when you're ready |
+| Charity&nbsp;Water | `Storytelling`: "The Colors of Dirty Water" | A  blog called **_True Colors_**. You can see this demo when you're ready <!-- entertain w. clever interpretations for post headlines& social media excerpts? https://www.myenglishteacher.eu/blog/colour-idioms-list-and-their-meanings/ --> |
 | [CWB,&nbsp;UK](https://cwb.org.uk/) | Crisp, impactful `UI` with an emphasis on fundraising | Add video and strategically align business goals with design ambitions |
 | Owl & Panther | Immediate clarity of purpose. Compelling, yet minimal publishing | Strike a chord while exercising restraint. <br>Less is more. |
 | [Plan C](https://www.weareplanc.org/modules/) | A strong voice. A sophisticated discourse on degrowth. Imprefect, bold graphics. | Leverage the power of `Storytelling`. <br>Match content and graphics. |
@@ -271,17 +273,17 @@ Your stories have already started to connect people to CWB. With 30 years of mak
 By meshing writing and design, we can use:
 
 - `impact language` to help summarise and spread the article.
-- descern info boxes that highlight CWB involvement (build on what works from: [Revuelta 2022 feedback](https://www.cwb.us.org/color/feedback.webp)).
+- descern **info boxes** that highlight CWB involvement (build on what works from: [Revuelta 2022 feedback](https://www.cwb.us.org/color/feedback.webp)).
 - explain the protagonist's struggle and the relationship to CWB's mission (this resonates from the Ukraine post).
 - highlight quotes and relatable outcomes.
-- specific about how the `Target Audience` should get involved (our `CTA`).
+- specific about how the `Target Audience` should get involved (using relevant `CTA`).
 
 <!--
 - Introduce a protagonist of specific interest to the `Target Audience`: introduce this person (or group).
 - Describe the problem: have the reader empathise as you sum up the difficulties of their struggle.
 - Introduce the solution: explain how CWB became involved and the close ties this situation has with CWB's mission.
 - The human impact: write a relatable outcome for the protagonist with quotes.
-- `CTA`: be specific about how the `Target Audience` should get involved.
+- specific about how the `Target Audience` should get involved (using relevant `CTA`).
 - Conclusion: encourage sharing via social media with `impact language` to help summarise how to spread the article.
 - Finally: Thank the reader for their support.
 
@@ -322,16 +324,18 @@ This design pattern strives to satisfy mixed ability users. It emphasises findab
 
 > **Who is who?** Our `Movers & Shakers` are at one end of the spectrum, and `visitors from organic search & social media` define the other
 
-This spectrum represents people's familiarity with charities, and, is a baseline to improve any `sustainment` strategy.
+This idea represents people's familiarity with charities, and is a baseline to improve any `sustainment` strategy.
 
-Note how this is different from `Information Architecture`, which brings clarity to the underlying structure of your information. A design pattern on the other hand, is a method of reliably applying that structure to serves different people's needs.
+![Familiarity alegory](https://www.cwb.us.org/color/spectrum.webp "Familiarity alegory")
+
+Note how this is different from `Information Architecture` – which brings clarity to the underlying structure of information. A _design pattern_ on the other hand, is a method of reliably applying that structure so it serves different people.
 
 Thinking like this can be used as part of establishing **Win-Win** conditions.
 
 #### Movers & Shakers
 
 - Who are the _Movers & Shakers_ that matter?
-  - The goal is to target just 2 or 3 people in the _whole world_ that could make life better!
+  - The goal is to target just _2 or 3 people in the whole world_ that can help make life better!
   - they might be people you know, such as `Grant Funders`, `Partner/Collaborators` or perhaps new `Sponsors` that have specific investment goals.
 - eg: [Jumpman](https://wish.org/michael-jordan-gift) celebrates his 60th in style!
   - By making a **$10m** donation to the Make-A-Wish Foundation it's clear that the charity are having impact and trusted to deliver on their promises – great!
@@ -350,18 +354,12 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
 
 ##### `Target Audience` segmentation
 
-<!-- ##### `UX` requirements for our `Target Audience` segments
+Concentrating on who we are looking for, it should become clear what our webapp should do for different segments of our `Target Audience`.
 
-What our webapp should do for:
-- Grant Funders
-  - review our grant application and use website to see an examples of: past work, x, y and z.
-  - x
-- x
-- y
-
--->
-
-Concentrating on who we are looking for, it should become clear what our webapp should do for our different `Target Audience` segments.
+- `Grant Funders`.
+- `Partner/Collaborators`: NGOs looking for assurance we are a trusted and professional partner<!-- , eg: other CWB chapters. -->.
+- `Supporters` donors from the CRM.
+- &hellip;and `visitors from organic search & social media`.
 
 Let's break this down for `Grant Funders`.
 
@@ -377,6 +375,39 @@ Let's break this down for `Grant Funders`.
 
 > Key question: when `Grant Funders` review our application is there a **special relationship** that helps move the needle in our favour? &hellip;if so, how do we amplify this and improve their experience?
 
+
 `Partner/Collaborators`
 
-> Key question: what are their needs?
+> Key question: there is some overlap with `Grant Funders`, but how are their needs uniqely different?
+
+`Supporters` donors from the CRM.
+
+> Key question: how does `Constant Contact` serve CWB and what is the resulting level of engagement?
+
+> Key question: how does `Kindful` serve CWB and what is the resulting level of engagement?
+
+##### `UX` requirements
+
+Our webapp should help people find what they are looking for and meet the needs of different people:
+
+- `Grant Funders`:
+  - provide clear evidence while they review our grant applications.
+  - share `Visability` with our `Partner/Collaborators`.
+  - see examples of past work ( develop **info boxes** (build on what works from: [Revuelta 2022 feedback](https://www.cwb.us.org/color/feedback.webp)).
+- `Partner/Collaborators`. People from `ACNUR` or `Terres Des Hommes`, should understand:
+  - we exist&hellip;
+  - we have a track record&hellip;
+  - we spotlight our partner's work (aka `Visability`).
+- `Supporters` from the CRM and `visitors from organic search & social media`:
+  - monthly and one-time donation options.
+  - amplify our Social Media objectives.
+
+
+
+<!--
+&hellip;
+- `visitors from search`:
+  - use qualified `keyword research` (see [tools](https://seoscout.com/suggest)). Go beyond SEO and deliver what they're actually asking ():
+    - - use SEO keyword check:
+    - why do people give money to charity?
+-->
