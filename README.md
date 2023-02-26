@@ -427,7 +427,7 @@ We should aim relevant `CTA` to different segments of the audience and help peop
   - we exist&hellip;
   - we have a track record&hellip;
   - we spotlight our partner's work (aka `Visability` & professionalism).
-- In **30s** `Supporters` and `visitors from organic search & social media` shoud be able to:
+- In **30s** `Supporters` and `visitors from organic search & social media` should be able to:
   - make monthly or one-time donations.
   - amplify our Social Media objectives.
   - understand what we do + act.
