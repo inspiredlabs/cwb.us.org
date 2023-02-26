@@ -262,9 +262,9 @@ ALT:
 - Relieve suffering in crisis through joy and laughter
 - Relieving suffering of children in crisis using laughter
 
--->
-
 ![Joy & Resilience to Children in crisis](https://www.cwb.us.org/color/joy-and-resilience-to-children-in-crisis.webp "Joy & Resilience to Children in crisis")
+
+-->
 
 #### Define common `CTA`
 
@@ -339,7 +339,7 @@ It should be safe to say that at this stage, `visitors from organic search & soc
 
 This design pattern strives to satisfy mixed ability users. It emphasises findability through clear and concise language, a logical layout and accessiblity.
 
-> **Who is who?** Athletes are the people could really make a huge difference, The `Movers & Shakers`! The `visitors from organic search & social media` represent the `sustainment` end of the spectrum.
+> **Who is who?** Athletes are people could really make a huge difference, The `Movers & Shakers`! The `visitors from organic search & social media` represent the `sustainment` end of the spectrum.
 
 This idea is an _alegory_ that represents people's familiarity with charities (not actual athletic ability 😉), and is a baseline to improve any `sustainment` strategy.
 
@@ -367,8 +367,6 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
   - we should focus on a tiny group of _Movers & Shakers_ and develop an experience to capture their imagination and build something next-gen!
   - **&hellip;also** represent our actions clearly so `visitors from organic search & social media` can understand how we are that trusted pair of hands they are looking for.
 
-> Key question: what do we do **already** to serve our existing Movers & Shakers?
-
 ##### `Target Audience` segmentation
 
 Concentrating on who we are looking for, it should become clear what our webapp should do for different segments of our `Target Audience`.
@@ -380,7 +378,9 @@ Concentrating on who we are looking for, it should become clear what our webapp 
 
 Let's break this down for `Grant Funders`&hellip;
 
-> what do Grant Funders look for in a charity's application?
+> key question: what do Grant Funders look for in an application?
+
+On the surface it looks like they need signals such as `Social Proof`, and want to add detail to the following criteria:
 
 - Alignment. Funders want our goals & values to align with theirs.
 - Funders want clear and specific goals.
@@ -401,16 +401,13 @@ Let's break this down for `Grant Funders`&hellip;
 
 > Key question: who are the best `Grant Funders` & why?
 
-<!-- > Key question: which `Grant Funders` have repeat funds & why? -->
-
 > Key question: when `Grant Funders` review our application is there a **special relationship** that helps move the needle in our favour? &hellip;if so, how do we amplify this and improve their experience?
-
 
 `Partner/Collaborators`
 
 > Key question: there is some overlap with `Grant Funders`, but how are their needs uniqely different?
 
-`Supporters` donors from the CRM.
+`Supporters` donors from the CRM
 
 > Key question: how does `Constant Contact` serve CWB and what is the resulting level of engagement?
 
@@ -418,7 +415,9 @@ Let's break this down for `Grant Funders`&hellip;
 
 ##### `UX` requirements
 
-Our webapp should help people find what they are looking for and meet the needs of different people:
+This webapp should help people in different ways.
+
+We should aim relevant `CTA` to different segments of the audience and help people find what they are looking for:
 
 - `Grant Funders`:
   - provide clear evidence while they review our grant applications.
