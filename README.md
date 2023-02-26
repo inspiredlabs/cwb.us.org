@@ -324,7 +324,7 @@ This design pattern strives to satisfy mixed ability users. It emphasises findab
 
 > **Who is who?** Our `Movers & Shakers` are at one end of the spectrum, and `visitors from organic search & social media` define the other
 
-This idea represents people's familiarity with charities, and is a baseline to improve any `sustainment` strategy (and this idea is an _alegory_ rather than a refering to actual Ninjas or not 😉). 
+This idea represents people's familiarity with charities, and is a baseline to improve any `sustainment` strategy (and this idea is an _alegory_ rather than refering whether people are actually Ninjas or not 😉). 
 
 ![Familiarity alegory](https://www.cwb.us.org/color/spectrum.webp "Familiarity alegory")
 
