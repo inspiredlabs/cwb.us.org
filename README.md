@@ -223,7 +223,7 @@ Current `CTA` messaging (Feb. 2023):
 
 - Give Laughter (aka. `Donate`).
 - [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): We Bring Laughter Where It's Needed Most
-- [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): _Our Mission: Clowns Without Borders (CWB – USA) offers joy and laughter to relieve the suffering of all persons, especially children, who live in areas of crisis including refugee camps, conflict zones and territories in situations of emergency. Vision&hellip;_
+- [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): _Our Mission: **Clowns Without Borders** offers joy and laughter to relieve the suffering of all persons, especially children, who live in areas of crisis including refugee camps, conflict zones and territories in situations of emergency. Vision&hellip;_
 - [Buffer](https://clownswithoutborders.start.page/): _Resilience through laughter_
 - [Kindful](https://clownswithoutborders.kindful.com/): _Give Laughter_
 - [Twitter](https://twitter.com/CWBUSA): _CWB offers laughter to bring relief to children living in crisis areas. We also seek to raise our society’s awareness of affected populations._
@@ -247,7 +247,22 @@ In modern life there is a signal-to-noise problem and it's up to us to filter wh
 
 > Give laughter, where it's needed most
 
+2023 Mission update:
+
+> Our Mission: Bring resilience to children in crisis
+
+ALT:
+- Bring joy to children in crisis
+- bring children resilience in crisis
+- Joy & resilience to children in crisis
+- Bring joy & resilience to children in crisis
+- Laughter to relieve suffering of children in crisis
+- Relieve suffering in crisis through joy and laughter
+- Relieving suffering of children in crisis using laughter
+
 -->
+
+![Joy & Resilience to Children in crisis](https://www.cwb.us.org/color/joy-and-resilience-to-children-in-crisis.webp "Joy & Resilience to Children in crisis")
 
 #### Define common `CTA`
 
@@ -312,9 +327,9 @@ Without over-analysing please get me paid & we can put this into practice!
 
 How do we find our `Target Audience`?
 
-It should be safe to say that at this stage, `visitors from organic search & social media` have been fine for `sustainment`. But, even with an awesome content drive, SEO research and a tonne of luck – they might only be able to raise the volume slightly.
+It should be safe to say that at this stage, `visitors from organic search & social media` have been fine for `sustainment`. But, even with an awesome content drive, tonnes of SEO and luck – that might only be able to raise the volume slightly.
 
-We don't want to forget them – but it's worthwhile considering what can happen if we're more ambitious.
+> We don't want to forget them – but what would happen if we're more ambitious?
 
 ### Beyond `sustainment`
 
@@ -322,7 +337,7 @@ We don't want to forget them – but it's worthwhile considering what can happen
 
 This design pattern strives to satisfy mixed ability users. It emphasises findability through clear and concise language, a logical layout and accessiblity.
 
-> **Who is who?** Our `Movers & Shakers` are at one end of the spectrum, and `visitors from organic search & social media` define the other
+> **Who is who?** Athletes are the people could really make a huge difference, The `Movers & Shakers`! The `visitors from organic search & social media` represent the `sustainment` end of the spectrum.
 
 This idea is an _alegory_ that represents people's familiarity with charities (not actual athletic ability 😉), and is a baseline to improve any `sustainment` strategy.
 
@@ -337,9 +352,9 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
 - Who are the _Movers & Shakers_ that matter?
   - The goal is to target just _2 or 3 people in the whole world_ that can help make life better!
   - they might be people you know, such as `Grant Funders`, `Partner/Collaborators` or perhaps new `Sponsors` that have specific investment goals.
-- eg: [Jumpman](https://wish.org/michael-jordan-gift) celebrates his 60th in style!
-  - By making a **$10m** donation to the Make-A-Wish Foundation it's clear that the charity are having impact and trusted to deliver on their promises – great!
-  - **More money in = more granted wishes**, their operation effectively _scales_ in proportion to their capacity. Their `Charitable Objectives` get fulfilled in a winner-takes-all feedback loop! As they earn funds, it looks like they can grant more wishes.
+- eg: [Michael Jordan](https://wish.org/michael-jordan-gift) celebrates his 60th in style!
+  - By making a **$10m** donation to the _Make-A-Wish Foundation_ it's clear that the charity are having impact and trusted to deliver on their promises – great!
+  - **More money in = more granted wishes**. _Make-A-Wish Foundation_ operation effectively _scales_ in proportion to their capacity. Their `Charitable Objectives` get fulfilled in a winner-takes-all feedback loop! As they earn funds, it looks like they can grant more wishes.
   - This makes them highly influential. People looking to donate (to somewhere/anywhere), simply follow because they _are_ a trusted pair of hands.
 - Can we write a list of our "Micheal Jordans"?
   - here's a list of [50 people](https://www.businessweekly.co.uk/killer50/killer50-profiles) working in tech in Cambridge, England. Is there a similar list of `Grant Funders` or `Partner/Collaborators` that we can study?
@@ -361,7 +376,20 @@ Concentrating on who we are looking for, it should become clear what our webapp 
 - `Supporters` donors from the CRM.
 - &hellip;and `visitors from organic search & social media`.
 
-Let's break this down for `Grant Funders`.
+Let's break this down for `Grant Funders`&hellip;
+
+> what do Grant Funders look for in a charity's application?
+
+- Alignment. Funders want our goals & values to align with theirs.
+- Funders want clear and specific goals.
+  - One very effective example is: **More money in = more granted wishes** _Make-A-Wish Foundation_ operation effectively _scales_ in proportion to their capacity.
+- Communication. Explain how funding advances CWB's Mission.
+- Impact. Evidence of making a real difference.
+- Report. We `track` and `measure` our future outcomes.
+- Leadership. Demonstrate credability, strong governance <!-- practices --> and the capabilities of an experience team.
+- Oversight. Demonstrate responsibility and financial track record.<!--managing resources, accounting and handling risk-->
+- Collaborate. Has a history or successful partnerships.
+- Sustainment.
 
 > Key question: What need or business-case did CWB fulfill for the biggest `Grant Funder`?
 
@@ -393,16 +421,15 @@ Our webapp should help people find what they are looking for and meet the needs 
 - `Grant Funders`:
   - provide clear evidence while they review our grant applications.
   - share `Visability` with our `Partner/Collaborators`.
-  - see examples of past work ( develop **info boxes** (build on what works from: [Revuelta 2022 feedback](https://www.cwb.us.org/color/feedback.webp)).
-- `Partner/Collaborators`. People from `ACNUR` or `Terres Des Hommes`, should understand:
+  - see examples of past work (build on what works from: [Revuelta 2022 feedback](https://www.cwb.us.org/color/feedback.webp) eg: **info boxes**).
+- `Partner/Collaborators`. In **60s** people from `ACNUR` or `Terres Des Hommes`, should understand:
   - we exist&hellip;
   - we have a track record&hellip;
-  - we spotlight our partner's work (aka `Visability`).
-- `Supporters` from the CRM and `visitors from organic search & social media`:
-  - monthly and one-time donation options.
+  - we spotlight our partner's work (aka `Visability` & professionalism).
+- In **30s** `Supporters` and `visitors from organic search & social media` shoud be able to:
+  - make monthly or one-time donations.
   - amplify our Social Media objectives.
-
-
+  - understand what we do + act.
 
 <!--
 &hellip;
