@@ -322,6 +322,8 @@ This design pattern strives to satisfy mixed ability users. It emphasises findab
 
 This spectrum represents people's familiarity with charities, and, is a baseline to improve any `sustainment` strategy.
 
+Note how this is different from `Information Architecture`, which brings clarity to the underlying structure of your information. A design pattern on the other hand, is a method of reliably applying that structure to serves different people's needs.
+
 Thinking like this can be used as part of establishing **Win-Win** conditions.
 
 #### Movers & Shakers
@@ -332,7 +334,7 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
 - eg: [Jumpman](https://wish.org/michael-jordan-gift) celebrates his 60th in style!
   - By making a **$10m** donation to the Make-A-Wish Foundation it's clear that the charity are having impact and trusted to deliver on their promises – great!
   - **More money in = more granted wishes**, their operation effectively _scales_ in proportion to their capacity. Their `Charitable Objectives` get fulfilled in a winner-takes-all feedback loop! As they earn funds, it looks like they can grant more wishes.
-  - People looking to donate (to somewhere/anywhere), will follow because they _are_ a trusted pair of hands.
+  - This makes them highly influential. People looking to donate (to somewhere/anywhere), simply follow because they _are_ a trusted pair of hands.
 - Can we write a list of our "Micheal Jordans"?
   - here's a list of [50 people](https://www.businessweekly.co.uk/killer50/killer50-profiles) working in tech in Cambridge, England. Is there a similar list of `Grant Funders` or `Partner/Collaborators` that we can study?
   - &hellip;do we already have a list?
@@ -343,3 +345,9 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
   - **&hellip;also** represent our actions clearly so `visitors from organic search & social media` can understand how we are that trusted pair of hands they are looking for.
 
 > Key question: what do we do **already** to serve our existing Movers & Shakers?
+
+##### `Target Audience` Requirements
+
+Concentrating on who we are looking for, it becomes clear what our webapp should do for different `Target Audience`s.
+
+> Key question: What need or business-case did you fulfill for the biggest and most regular `Grant Funders`?
