@@ -353,15 +353,15 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
 
 #### Movers & Shakers
 
-- In an ideal outcome, who are most able to make your life better?
+- In an ideal outcome: target just the people who can make life better:
   - The goal is to target _2 or 3 people in the whole world_.
-  - they might be your most reliable `Grant Funders`, or perhaps new `Sponsors` with specific investment goals that you could fulfil.
+  - they might be your most reliable `Grant Funders`, or perhaps new `Sponsors` with specific investment goals that you already fulfil.
 - Thinking Big: [Michael Jordan](https://wish.org/michael-jordan-gift) celebrates his 60th in style!
   - By making a **$10m** donation to _Make-A-Wish_ it sends `Social Proof` of their impact. They deliver on their promises!
   - **More money in = more granted wishes**. _Make-A-Wish_ effectively _scales_ their operation in proportion to funding. <!-- Their `Charitable Objectives` get fulfilled in a winner-takes-all feedback loop!--> It seems that as they earn funds, they can grant more wishes.
-  - This makes them highly influential. People looking to donate (who are unfamiliar with the Charity Sector), simply follow them. This `Social Proof` means "others know better", they a trusted pair of hands.
+  - This makes them highly influential. People looking to donate (who are unfamiliar with the Charity Sector), simply follow them. <!-- This `Social Proof` means "others know better", they a trusted pair of hands. -->
 - Who are our "Micheal Jordans"?
-- Do we have our own "Greta"? A cheerleader that can use `Social Proof` to raise the CWB profile.
+- Do we have a cheerleader to raise the profile of CWB? <!-- Who is our "Greta"? -->
 - How do we act when we have a list?
   <!-- - act like a tech-company. Invest in the future via information -->
   - we shape the whole operation around the ability to scale.
