@@ -225,7 +225,8 @@ Current `CTA` messaging (Feb. 2023):
 
 - Give Laughter (aka. `Donate`).
 - [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): We Bring Laughter Where It's Needed Most
-- [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): _Our Mission: **Clowns Without Borders** offers joy and laughter to relieve the suffering of all persons, especially children, who live in areas of crisis including refugee camps, conflict zones and territories in situations of emergency. Vision&hellip;_
+- [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): _Our Mission: **Clowns Without Borders** offers joy and laughter to relieve the suffering of all persons, especially children, who live in areas of crisis including refugee camps, conflict zones and territories in situations of emergency. Vision&hellip;_ <!-- prompt: CWB's mission laughter and joy to build resilience of children living in areas of crisis including refugee camps, conflict zones and territories in situations of emergency.
+Shrink that to as few words as possible. -->
 - [Buffer](https://clownswithoutborders.start.page/): _Resilience through laughter_
 - [Kindful](https://clownswithoutborders.kindful.com/): _Give Laughter_
 - [Twitter](https://twitter.com/CWBUSA): _CWB offers laughter to bring relief to children living in crisis areas. We also seek to raise our society’s awareness of affected populations._
@@ -321,7 +322,8 @@ A Win-Win scenario can be established with the [Double Diamond Process](https://
 
 ## Discover
 
-My approach is to **Design with Intent**. During the initiation phase of a project it's easy to neglect aspects of a project because they remain unclear. The opposite of this is _exuberance_, which can lead to conflicting advice. My aim, is to strike a balance between meaningful progress and considering some decisions out of the scope of my RFP.
+My approach is to **Design with Intent**. During the initiation phase of a project it's easy to neglect aspects of a project because they remain unclear.
+<!-- The opposite of this is _exuberance_, which can lead to conflicting advice.--> My aim, is to strike a balance between meaningful progress and considering some decisions out of the scope of my RFP.
 
 <!--
 Without over-analysing please get me paid & we can put this into practice!
@@ -329,9 +331,9 @@ Without over-analysing please get me paid & we can put this into practice!
 
 How do we find our `Target Audience`?
 
-It should be safe to say that at this stage, `visitors from organic search & social media` have been fine for `sustainment`. But, even with an awesome content drive, tonnes of SEO and luck – that might only be able to raise the volume slightly.
+It should be safe to say that at this stage, `visitors from organic search & social media` have been fine for `sustainment`. But, even with an awesome SEO content drive <!-- tonnes of luck – that might only be able to raise the volume slightly --> that might not get the desired growth you're looking for.
 
-> We don't want to forget them – but what would happen if we're more ambitious?
+> key question: What would happen if you were more ambitious?
 
 ### Beyond `sustainment`
 
@@ -339,40 +341,44 @@ It should be safe to say that at this stage, `visitors from organic search & soc
 
 This design pattern strives to satisfy mixed ability users. It emphasises findability through clear and concise language, a logical layout and accessiblity.
 
-> **Who is who?** Athletes are people could really make a huge difference, The `Movers & Shakers`! The `visitors from organic search & social media` represent the `sustainment` end of the spectrum.
+> Athletes are people that can make a huge difference. They are the `Grant Funders` and the `Movers & Shakers` in your sector. Your current supporters represent the other end of the spectrum.
 
-This idea is an _alegory_ that represents people's familiarity with charities (not actual athletic ability 😉), and is a baseline to improve any `sustainment` strategy.
+This idea is an _alegory_ to represent familiarity with the charity sector (not actual _athletic ability_ 😉). This serves as a baseline to meaningfully improve your strategy.
 
 ![Familiarity alegory](https://www.cwb.us.org/color/spectrum.webp "Familiarity alegory")
 
-Note how this is different from `Information Architecture` – which brings clarity to the underlying structure of information. A _design pattern_ on the other hand, is a method of reliably applying that structure so it serves different people.
+Note how a _design pattern_ is different from `Information Architecture`, which brings clarity and structure to information. A _design pattern_ helps reliably apply that structure in a non-competing way, one that serves people's different requirements.
 
 Thinking like this can be used as part of establishing **Win-Win** conditions.
 
 #### Movers & Shakers
 
-- Who are the _Movers & Shakers_ that matter?
-  - The goal is to target just _2 or 3 people in the whole world_ that can help make life better!
-  - they might be people you know, such as `Grant Funders`, `Partner/Collaborators` or perhaps new `Sponsors` that have specific investment goals.
-- eg: [Michael Jordan](https://wish.org/michael-jordan-gift) celebrates his 60th in style!
-  - By making a **$10m** donation to the _Make-A-Wish Foundation_ it's clear that the charity are having impact and trusted to deliver on their promises – great!
-  - **More money in = more granted wishes**. _Make-A-Wish Foundation_ operation effectively _scales_ in proportion to their capacity. Their `Charitable Objectives` get fulfilled in a winner-takes-all feedback loop! As they earn funds, it looks like they can grant more wishes.
-  - This makes them highly influential. People looking to donate (to somewhere/anywhere), simply follow because they _are_ a trusted pair of hands.
-- Can we write a list of our "Micheal Jordans"?
+- In an ideal outcome, who are most able to make your life better?
+  - The goal is to target _2 or 3 people in the whole world_.
+  - they might be your most reliable `Grant Funders`, or perhaps new `Sponsors` with specific investment goals that you could fulfil.
+- Thinking Big: [Michael Jordan](https://wish.org/michael-jordan-gift) celebrates his 60th in style!
+  - By making a **$10m** donation to _Make-A-Wish_ it sends `Social Proof` of their impact. They deliver on their promises!
+  - **More money in = more granted wishes**. _Make-A-Wish_ effectively _scales_ their operation in proportion to funding. <!-- Their `Charitable Objectives` get fulfilled in a winner-takes-all feedback loop!--> It seems that as they earn funds, they can grant more wishes.
+  - This makes them highly influential. People looking to donate (who are unfamiliar with the Charity Sector), simply follow them. This `Social Proof` means "others know better", they a trusted pair of hands.
+- Who are our "Micheal Jordans"?
+- Do we have our own "Greta"? A cheerleader that can use `Social Proof` to raise the CWB profile.
+  <!--
   - here's a list of [50 people](https://www.businessweekly.co.uk/killer50/killer50-profiles) working in tech in Cambridge, England. Is there a similar list of `Grant Funders` or `Partner/Collaborators` that we can study?
   - &hellip;do we already have a list?
-- What do we do with the list?
-  - we shape the whole operation around our ability to scale effectively.
-  - find ways to have **impact in proportion to investment**.
-  - we should focus on a tiny group of _Movers & Shakers_ and develop an experience to capture their imagination and build something next-gen!
-  - **&hellip;also** represent our actions clearly so `visitors from organic search & social media` can understand how we are that trusted pair of hands they are looking for.
+-->
+- How do we act when we have a list?
+  <!-- - act like a tech-company. Invest in the future via information -->
+  - we shape the whole operation around the ability to scale.
+  - find ways to have **_impact_ in proportion to _investment_**.
+  - focus on the experience for tiny group of _Movers & Shakers_. <!-- to capture their imagination and build something next-gen!-->
+  - **&hellip;also** represent CWB in a clear, bite-sized way so `visitors from organic search & social media` feel highly valued<!--impact understand how we are that trusted pair of hands they are looking for`-->.
 
 ##### `Target Audience` segmentation
 
-Concentrating on who we are looking for, it should become clear what our webapp should do for different segments of our `Target Audience`.
+Concentrating on different segments of our `Target Audience` makes it clearer what the site should do.
 
-- `Grant Funders`.
-- `Partner/Collaborators`: NGOs looking for assurance we are a trusted and professional partner<!-- , eg: other CWB chapters. -->.
+- `Grant Funders` looking for evidence of your responsibility and impact.
+- `Partner/Collaborators`: NGOs looking for assurance we are a trusted, professional partner<!-- , eg: other CWB chapters. -->.
 - `Supporters` donors from the CRM.
 - &hellip;and `visitors from organic search & social media`.
 
