@@ -370,6 +370,17 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
   - **&hellip;also** represent CWB in a clear, bite-sized way so `visitors from organic search & social media` feel highly valued<!--impact understand how we are that trusted pair of hands they are looking for`-->.
 
 <!--
+`Social Proof` for improving engagement
+Leverage this psychological phenomenon:
+- quality social media followers, not quantity (_"my kind of people"_).
+- increase brand awareness by asking influencers for their input?
+- loyal supporter base could write the most positive reviews
+- amplify awards and recognition
+- who has the recieved the most perceived value from CWB?
+- platform endorsements
+- use partner visibility
+-->
+<!--
 - here's a list of [50 people](https://www.businessweekly.co.uk/killer50/killer50-profiles) working in tech in Cambridge, England. Is there a similar list of `Grant Funders` or `Partner/Collaborators` that we can study?
 - &hellip;do we already have a list?
 -->
