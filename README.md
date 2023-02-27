@@ -333,7 +333,7 @@ How do we find our `Target Audience`?
 
 It should be safe to say that at this stage, `visitors from organic search & social media` have been fine for `sustainment`. But, even with an awesome SEO content drive <!-- tonnes of luck – that might only be able to raise the volume slightly --> that might not get the desired growth you're looking for.
 
-> key question: What would happen if you were more ambitious?
+> key question: What would happen trying something completely different?
 
 ### Beyond `sustainment`
 
@@ -378,7 +378,7 @@ Concentrating on different segments of our `Target Audience` makes it clearer wh
 - `Grant Funders` looking for evidence of your responsibility and impact.
 - `Partner/Collaborators`: NGOs looking for assurance we are a trusted, professional partner<!-- , eg: other CWB chapters. -->.
 - `Supporters` donors from the CRM.
-- &hellip;and `visitors from organic search & social media`.
+- &hellip;and `visitors from organic search & social media` (you may already have some analytics [here](https://www.googletagmanager.com/gtag/js?id=UA-38080782-1)).
 
 Let's break this down for `Grant Funders`&hellip;
 
