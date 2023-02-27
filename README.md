@@ -361,16 +361,18 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
   - **More money in = more granted wishes**. _Make-A-Wish_ effectively _scales_ their operation in proportion to funding. <!-- Their `Charitable Objectives` get fulfilled in a winner-takes-all feedback loop!--> It seems that as they earn funds, they can grant more wishes.
   - This makes them highly influential. People looking to donate (who are unfamiliar with the Charity Sector), simply follow them. This `Social Proof` means "others know better", they a trusted pair of hands.
 - Who are our "Micheal Jordans"?
-- Do we have our own "Greta"? A cheerleader that can use `Social Proof` to raise the CWB profile.<!--
-  - here's a list of [50 people](https://www.businessweekly.co.uk/killer50/killer50-profiles) working in tech in Cambridge, England. Is there a similar list of `Grant Funders` or `Partner/Collaborators` that we can study?
-  - &hellip;do we already have a list?
--->
+- Do we have our own "Greta"? A cheerleader that can use `Social Proof` to raise the CWB profile.
 - How do we act when we have a list?
   <!-- - act like a tech-company. Invest in the future via information -->
   - we shape the whole operation around the ability to scale.
   - find ways to have **_impact_ in proportion to _investment_**.
   - focus on the experience for tiny group of _Movers & Shakers_. <!-- to capture their imagination and build something next-gen!-->
   - **&hellip;also** represent CWB in a clear, bite-sized way so `visitors from organic search & social media` feel highly valued<!--impact understand how we are that trusted pair of hands they are looking for`-->.
+
+<!--
+- here's a list of [50 people](https://www.businessweekly.co.uk/killer50/killer50-profiles) working in tech in Cambridge, England. Is there a similar list of `Grant Funders` or `Partner/Collaborators` that we can study?
+- &hellip;do we already have a list?
+-->
 
 ##### `Target Audience` segmentation
 
