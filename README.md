@@ -237,7 +237,7 @@ Shrink that to as few words as possible. -->
 
 The solution: Use `Impact Language` and **Repeat, Repeat, Repeat**.
 
-In modern life there is a signal-to-noise problem and it's up to us to filter what people to see. Help people's cognitive load by repeating your `Impact Language`.
+In modern life there is a signal-to-noise problem and it's up to us to filter what people see. Help reduce cognitive load and repeat your `Impact Language`.
 
 > When we strike with our most important ideas – people are more likely to take action.
 
