@@ -362,28 +362,14 @@ Thinking like this can be used as part of establishing **Win-Win** conditions.
   - This makes them highly influential. People looking to donate (who are unfamiliar with the Charity Sector), simply follow them. <!-- This `Social Proof` means "others know better", they a trusted pair of hands. -->
 - Who are our "Micheal Jordans"?
 - Do we have a cheerleader to raise the profile of CWB? <!-- Who is our "Greta"? -->
-- How do we act when we have a list?
+- What should we do with a list of _Movers & Shakers_?
   <!-- - act like a tech-company. Invest in the future via information -->
-  - we shape the whole operation around the ability to scale.
+  - pitch _softly_ about your values and ability to scale.
+  - tailor messaging to resonate with causes they support.
+  - shape the operation in harmony with relationship building.
   - find ways to have **_impact_ in proportion to _investment_**.
-  - focus on the experience for tiny group of _Movers & Shakers_. <!-- to capture their imagination and build something next-gen!-->
-  - **&hellip;also** represent CWB in a clear, bite-sized way so `visitors from organic search & social media` feel highly valued<!--impact understand how we are that trusted pair of hands they are looking for`-->.
-
-<!--
-`Social Proof` for improving engagement
-Leverage this psychological phenomenon:
-- quality social media followers, not quantity (_"my kind of people"_).
-- increase brand awareness by asking influencers for their input?
-- loyal supporter base could write the most positive reviews
-- amplify awards and recognition
-- who has the recieved the most perceived value from CWB?
-- platform endorsements
-- use partner visibility
--->
-<!--
-- here's a list of [50 people](https://www.businessweekly.co.uk/killer50/killer50-profiles) working in tech in Cambridge, England. Is there a similar list of `Grant Funders` or `Partner/Collaborators` that we can study?
-- &hellip;do we already have a list?
--->
+  - carfully tailor the experience of a tiny group of _Movers & Shakers_. <!-- capture their imagination and nudge them into helpping build something next-gen!-->
+  - **&hellip;also** meet the needs of `visitors from organic search & social media` and make them feel valued. Give them clear, bite-sized details about the tangible impact of their donation. Solve thier problems from sear engines using easy to comprehend writing: `best charity to support?`, `who's helping Ukraine?` and `tax deductable charities?`.<!--impact understand how we are that trusted pair of hands they are looking for`-->.
 
 ##### `Target Audience` segmentation
 
