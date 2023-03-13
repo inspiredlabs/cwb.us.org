@@ -15,19 +15,22 @@ title: Clowns Without Borders US
 
 ## Naomi's risk assessment requirements
 
-Firstly, I have studied your `Budget Review` and want to help you get the best value for money, while being flexible and trustworthy:
+Firstly, I have studied your `Budget Review` and want to help you get the best value for money:
 
-- I am a reliable & accountable supplier.
-- I can guarantee **meeting your deadline** and you'll be able to shape the end-result too.
-- I have an **innovative proposal** and – can help _as-and-when things change_ because that's the inherent advantage of a maintainence budget.
+- I can guarantee **meeting your deadline** as I have some demos for you to see and we can build on what works from CWB, UK.
+- I have a **flexible proposal**, one that can help you develop your strategy through testing (eg: `Target Audience`).
 
-## A reliable & accountable supplier
+ because that's the inherent advantage of a maintainence budget
+
+<!-- ## A reliable & accountable supplier
 
 In a perfect world, your focus should be making business decisions about your charity – rather than thinking about tech. Here, I aim to derisk technology for you and offer clarification whenever you need it.
 
 ## How do we know you'll be able to deliver?
 
 My work is informed by prior design and development for other businesses, including [Clowns Without Borders, UK (**CWB, UK**)](https://cwb.org.uk/), National Geographic and other communication-conscious  organisations. In general, they prioritse a responsible tech-partner over cost.
+
+-->
 
 Just have a look at one of my recent [reviews](https://www.trustpilot.com/users/637cf2765bc60600112957fc).
 
