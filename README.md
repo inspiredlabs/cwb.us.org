@@ -19,8 +19,11 @@ Firstly, I have studied your `Budget Review` and want to help you get the best v
 
 - I can guarantee **meeting your deadline** as I have some demos for you to see and we can build on what works from CWB, UK.
 - I have a **flexible proposal**, one that can help you develop your strategy through testing (eg: `Target Audience`).
+- Having a maintainence budget gives you some on-going scope for changes.
+- Accountablity. People regard me as a helpful to work with, see: [TrustPilot](https://www.trustpilot.com/users/637cf2765bc60600112957fc), 
+[LinkedIn](https://uk.linkedin.com/in/urbanaut#recommendations).
 
- because that's the inherent advantage of a maintainence budget
+
 
 <!-- ## A reliable & accountable supplier
 
@@ -32,7 +35,6 @@ My work is informed by prior design and development for other businesses, includ
 
 -->
 
-Just have a look at one of my recent [reviews](https://www.trustpilot.com/users/637cf2765bc60600112957fc).
 
 There is no rigid blueprint, **this RFP is just a guide**: _when do we know we've covered everything?_ Don't worry. When you work with me it's ok to change your mind and develop your idea – it's part of the process!
 
