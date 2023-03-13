@@ -17,10 +17,10 @@ title: Clowns Without Borders US
 
 Firstly, I have studied your `Budget Review` and want to help you get the best value for money:
 
-- I can guarantee **meeting your deadline** as I have some demos for you to see and we can build on what works from CWB, UK.
+- I can guarantee **meeting your deadline**, and I have made some demos to help you make decisions from the start.
 - I have a **flexible proposal**, one that can help you develop your strategy through testing (eg: `Target Audience`).
 - Having a maintainence budget gives you some on-going scope for changes.
-- Accountablity. People regard me as a helpful to work with, see: [TrustPilot](https://www.trustpilot.com/users/637cf2765bc60600112957fc), 
+- Accountablity. People regard me as a helpful to work with, see: [TrustPilot](https://www.trustpilot.com/users/637cf2765bc60600112957fc) and
 [LinkedIn](https://uk.linkedin.com/in/urbanaut#recommendations).
 
 
@@ -33,12 +33,11 @@ In a perfect world, your focus should be making business decisions about your ch
 
 My work is informed by prior design and development for other businesses, including [Clowns Without Borders, UK (**CWB, UK**)](https://cwb.org.uk/), National Geographic and other communication-conscious  organisations. In general, they prioritse a responsible tech-partner over cost.
 
--->
-
-
 There is no rigid blueprint, **this RFP is just a guide**: _when do we know we've covered everything?_ Don't worry. When you work with me it's ok to change your mind and develop your idea – it's part of the process!
 
 > I can make things fit your needs because I have designed my own platform: _flexibility_ is where I shine.
+
+-->
 
 ## Meeting your deadline
 
