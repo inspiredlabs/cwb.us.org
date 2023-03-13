@@ -223,7 +223,7 @@ An iconic symbol as a logo will improve your `Visual Identity`. Here is a demo o
 
 Your `Brand` should have impact across the web, social media, print in a cohesive way.
 
-> Key question: From the current messaging, how do we know what is working well and how do we know what needs updating?
+> 🗝️ Key question: From the current messaging, how do we know what is working well and how do we know what needs updating?
 
 Current `CTA` messaging (Feb. 2023):
 
@@ -337,7 +337,7 @@ How do we find our `Target Audience`?
 
 It should be safe to say that at this stage, `visitors from organic search & social media` have been fine for `sustainment`. But, even with an awesome SEO content drive <!-- tonnes of luck – that might only be able to raise the volume slightly --> that might not get the desired growth you're looking for.
 
-> key question: What would happen trying something completely different?
+> 🗝️ Key question: What would happen trying something completely different?
 
 ### Beyond `sustainment`
 
@@ -386,7 +386,7 @@ Concentrating on different segments of our `Target Audience` makes it clearer wh
 
 Let's break this down for `Grant Funders`&hellip;
 
-> key question: what do Grant Funders look for in an application?
+> 🗝️ Key question: what do Grant Funders look for in an application?
 
 On the surface it looks like they need signals such as `Social Proof`, and want to add detail to the following criteria:
 
@@ -401,25 +401,25 @@ On the surface it looks like they need signals such as `Social Proof`, and want 
 - Collaborate. Has a history or successful partnerships.
 - Sustainment.
 
-> Key question: What need or business-case did CWB fulfill for the biggest `Grant Funder`?
+> 🗝️ Key question: What need or business-case did CWB fulfill for the biggest `Grant Funder`?
 
-> Key question: What need or business-case did CWB fulfill for the most regular `Grant Funders`?
+> 🗝️ Key question: What need or business-case did CWB fulfill for the most regular `Grant Funders`?
 
-> Key question: where do you normally find `Grant Funders` & interact with them?
+> 🗝️ Key question: where do you normally find `Grant Funders` & interact with them?
 
-> Key question: who are the best `Grant Funders` & why?
+> 🗝️ Key question: who are the best `Grant Funders` & why?
 
-> Key question: when `Grant Funders` review our application is there a **special relationship** that helps move the needle in our favour? &hellip;if so, how do we amplify this and improve their experience?
+> 🗝️ Key question: when `Grant Funders` review our application is there a **special relationship** that helps move the needle in our favour? &hellip;if so, how do we amplify this and improve their experience?
 
 `Partner/Collaborators`
 
-> Key question: there is some overlap with `Grant Funders`, but how are their needs uniqely different?
+> 🗝️ Key question: there is some overlap with `Grant Funders`, but how are their needs uniqely different?
 
 `Supporters` donors from the CRM
 
-> Key question: how does `Constant Contact` serve CWB and what is the resulting level of engagement?
+> 🗝️ Key question: how does `Constant Contact` serve CWB and what is the resulting level of engagement?
 
-> Key question: how does `Kindful` serve CWB and what is the resulting level of engagement?
+> 🗝️ Key question: how does `Kindful` serve CWB and what is the resulting level of engagement?
 
 ##### `UX` requirements
 
