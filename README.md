@@ -186,12 +186,12 @@ In modern life there is a signal-to-noise problem! That's why we tailor delivery
 
 > 🗝️ Key question: From your current Messaging and `CTA`, how do we know what is working well and what needs updating?
 
-- Give Laughter (aka. `Donate`).
-- [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): We Bring Laughter Where It's Needed Most
+- _Give Laughter_ (aka. `Donate` on the current homepage).
+- [Kindful](https://clownswithoutborders.kindful.com/): _Give Laughter_
+- [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): _We Bring Laughter Where It's Needed Most_
 - [Current homepage](https://clownswithoutborders.org/donate-clowns-without-borders/): _Our Mission: **Clowns Without Borders** offers joy and laughter to relieve the suffering of all persons, especially children, who live in areas of crisis including refugee camps, conflict zones and territories in situations of emergency. Vision&hellip;_ <!-- prompt: CWB's mission laughter and joy to build resilience of children living in areas of crisis including refugee camps, conflict zones and territories in situations of emergency.
 Shrink that to as few words as possible. -->
 - [Buffer](https://clownswithoutborders.start.page/): _Resilience through laughter_
-- [Kindful](https://clownswithoutborders.kindful.com/): _Give Laughter_
 - [Twitter](https://twitter.com/CWBUSA): _CWB offers laughter to bring relief to children living in crisis areas. We also seek to raise our society’s awareness of affected populations._
 - [Current website donate page](https://clownswithoutborders.org/donate-clowns-without-borders/): _You can make a difference to displaced children. Everyone deserves to laugh._
 - [Facebook](https://www.facebook.com/clownswithoutborders.usa/): _Sharing resilience through laughter to bring relief to children living in crisis areas._
@@ -283,7 +283,25 @@ These have different `UX` outcomes:
   - understand what we do.
   - make frequent or one-time donations.
   - take appropriate action on social media.
-- Define what actions `Supporters` from the CRM should be doing.
+- Supporters from your CRM/`Kindful` and `Constant Contact`.
+
+> 🗝️ Key question: What is the level of engagement from `Kindful` and `Constant Contact` Supporters?
+
+#### Defining our `Target Audience`
+
+Let's break this down for:
+-  `Grant Funders`
+- x
+- y
+- z
+
+## Development Phases
+
+Let's break this down for:
+-  `Grant Funders`
+- x
+- y
+- z
 
 ## Delivery Phase
 
