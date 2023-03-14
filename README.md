@@ -83,10 +83,9 @@ This holistic approach helps us iterate where appropriate, and build on known ou
 ### Day One Demos:
 
 - `Storytelling` meets `UX` video component demo.
-- `Automated SEO Suggestions` demo.
+- CMS and `Automated SEO Suggestions` demo.
 - Design and `Color Suggestions` demo.
 - See `True Colors` blog idea/demo.
-- CMS demo.
 
 ### Discovery Phase
 
@@ -105,7 +104,6 @@ This holistic approach helps us iterate where appropriate, and build on known ou
 - Review, test and iterate content and ensure it meets the strategy.
 - Clarify `Migration`.
 
-
 ### Delivery Phase
 
 - Sign-Off the Design.
@@ -118,7 +116,15 @@ This holistic approach helps us iterate where appropriate, and build on known ou
 - Sign-Off the Design: **Second payment (50% of total budget)**
 - September: **Annual Maintenance payment (100% of Maintenance budget)**
 
-## Implementation of the Discovery Phase
+## The Discovery Phase
+
+As of March 2023, we are begining to understanding this project implementation.
+
+There's lots of unanswered questions at this stage and some are out-of-scope for an RFP, but as the project moves forward things will become clear.
+
+<!--
+### Who are the `Target Audience`?
+-->
 
 ### CMS Approval
 
@@ -129,7 +135,7 @@ I propose a custom CMS, that is tailored to your workflow:
   - I can help identify a CMS which is `Easy to manage`, `not dependent on a 3rd party developer` and versatile enough for you to `make changes to the menu bar, including menu options, drop down options, and logo`.
   - The CMS should bring ease-of-use features, like `Wordpress`, and next-gen speed and security.
 - Testing and `UAT`:
-  - To be certain this new platform suits your needs – you should try it before you live with it! One way to do this properly is through `User Acceptance Testing` or `UAT`. This assessment process is aimed at getting you only what you need. This works using training and tailoring the CMS to your criteria.
+  - To be certain this new platform suits your needs – you should try it before you live with it! One way to do this properly is through `User Acceptance Testing` or `UAT`. This assessment process aims to get only the features you need. This works through training, and tailoring the CMS to fit your criteria.
   - `UAT` keeps you in control, helping you strike a balance of _technical intervention_, and where you are happy work _autonomously_.
 
 ### Design Inspiration
@@ -295,7 +301,7 @@ Let's break this down for:
 - y
 - z
 
-## Development Phases
+## Development Phase
 
 Let's break this down for:
 -  `Grant Funders`
